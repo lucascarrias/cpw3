@@ -1,8 +1,10 @@
 import type { PlacedSession, Session } from './types';
 import { durationMinutes, minutesIntoDay } from './data';
 
-export const PX_PER_MINUTE = 1.7;
-export const MIN_CARD_HEIGHT = 44;
+// Slightly generous vertical scale so 30-minute slots (the shortest common
+// session) get ~56px of room for a readable title on narrow phones.
+export const PX_PER_MINUTE = 1.85;
+export const MIN_CARD_HEIGHT = 56;
 export const TIMELINE_PADDING_MIN = 10;
 
 interface Interval {

@@ -376,17 +376,57 @@ function renderAgenda(): void {
   maybeAutoScroll();
 }
 
+interface CardMetrics {
+  compact: boolean;
+  tall: boolean;
+  /** Wide columns fit the full time range and room on one line. */
+  wide: boolean;
+  /** Title lines that fit in the card's vertical space. */
+  lines: number;
+  /** Title font size in px, chosen from the available height. */
+  titlePx: number;
+}
+
+/**
+ * Derives readable typography from the card height. The vertical budget is the
+ * card height minus borders, padding, the time/room line(s) and their gaps, so
+ * the clamped title always uses the space that is actually left. Must stay in
+ * sync with the paddings/line-height used for `.session-card` in styles.css.
+ */
+function cardMetrics(height: number, columnWidth: number): CardMetrics {
+  const compact = height < 70;
+  const tall = height >= 112;
+  const wide = columnWidth >= 140;
+  const paddingY = compact ? 6 : tall ? 12 : 10;
+  // Tall narrow cards give the room its own line, so reserve two meta lines.
+  const metaHeight = (compact ? 9.5 : tall ? 10.5 : 10) + (tall && !wide ? 11 : 0);
+  const gap = compact ? 0 : 1;
+  const titlePx = tall ? 12.5 : compact ? 10.5 : 11.5;
+  const lineHeight = titlePx * 1.16;
+  const titleSpace = height - 2 - paddingY - metaHeight - gap;
+  const maxLines = tall ? 8 : 6;
+  const lines = Math.max(1, Math.min(maxLines, Math.floor(titleSpace / lineHeight)));
+  return { compact, tall, wide, lines, titlePx };
+}
+
 function renderCard(placed: PlacedSession, columnWidth: number): string {
   const { session, column, top, height } = placed;
   const category = session.categories[0] ?? '';
   const color = categoryColor(category);
   const isLong = durationMinutes(session.start, session.end) >= 240;
   const fav = isFavorite(session.id);
+  const metrics = cardMetrics(height, columnWidth);
+  // Narrow columns get the tighter time label so it leaves room for the star.
+  const timeLabel = metrics.wide
+    ? `${formatTime(session.start)} – ${formatTime(session.end)}`
+    : `${formatTime(session.start)}–${formatTime(session.end)}`;
   return `
-    <div class="session-card${height < 64 ? ' compact' : ''}${isLong ? ' long-session' : ''}${fav ? ' is-favorite' : ''}" role="button" tabindex="0" style="--cat:${color};top:${top}px;height:${height}px;left:${column * columnWidth + 2}px;width:${columnWidth - 4}px" data-session="${esc(session.id)}" aria-label="${esc(session.title)}, ${formatTime(session.start)}">
-      <span class="card-time">${formatTime(session.start)} – ${formatTime(session.end)}</span>
+    <div class="session-card${metrics.compact ? ' compact' : ''}${metrics.tall ? ' tall' : ''}${metrics.wide ? ' wide' : ' narrow'}${isLong ? ' long-session' : ''}${fav ? ' is-favorite' : ''}" role="button" tabindex="0" style="--cat:${color};--title-lines:${metrics.lines};--title-size:${metrics.titlePx}px;top:${top}px;height:${height}px;left:${column * columnWidth + 2}px;width:${columnWidth - 4}px" data-session="${esc(session.id)}" aria-label="${esc(session.title)}, ${formatTime(session.start)}">
+      <span class="card-meta">
+        <span class="card-time">${timeLabel}</span>
+        <span class="card-room">${esc(session.room)}</span>
+      </span>
       <span class="card-title">${esc(session.title)}</span>
-      <span class="card-room">${esc(session.room)}</span>
       ${isLong ? '<span class="card-continuous">Ativação contínua</span>' : ''}
       <button class="star-btn" data-fav="${esc(session.id)}" aria-pressed="${fav}" aria-label="${fav ? 'Remover dos favoritos' : 'Adicionar aos favoritos'}">
         ${starIcon()}

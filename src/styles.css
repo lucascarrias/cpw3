@@ -306,7 +306,7 @@ p {
   z-index: 2;
   display: block;
   text-align: left;
-  padding: 7px 8px;
+  padding: 5px 7px;
   border-radius: 10px;
   border: 1px solid color-mix(in srgb, var(--cat) 32%, transparent);
   border-left: 3px solid var(--cat);
@@ -331,10 +331,18 @@ p {
     0 4px 16px rgba(0, 0, 0, 0.3);
 }
 
+.card-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+  min-width: 0;
+  line-height: 1.1;
+}
+
 .card-time {
-  display: block;
-  padding-right: 2px;
-  font-size: 9.5px;
+  flex: 0 1 auto;
+  min-width: 0;
+  font-size: 8.5px;
   font-weight: 800;
   font-variant-numeric: tabular-nums;
   color: var(--cat);
@@ -346,40 +354,79 @@ p {
 
 .card-title {
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: var(--title-lines, 3);
   -webkit-box-orient: vertical;
   overflow: hidden;
-  margin-top: 2px;
-  font-size: 11.5px;
+  margin-top: 1px;
+  font-size: var(--title-size, 11.5px);
   font-weight: 700;
-  line-height: 1.25;
-  padding-right: 18px;
+  line-height: 1.16;
+  overflow-wrap: anywhere;
+}
+
+.session-card.tall {
+  padding: 6px 8px;
+}
+
+/* Tall, narrow cards have vertical room to spare, so the room gets its own
+   line instead of being squeezed next to the time. */
+.session-card.narrow.tall .card-meta {
+  flex-wrap: wrap;
+  row-gap: 1px;
+}
+
+.session-card.narrow.tall .card-room {
+  flex: 1 1 100%;
+  margin: 0;
+  text-align: left;
+}
+
+.session-card.wide .card-time {
+  font-size: 9.5px;
 }
 
 .session-card.compact {
-  padding-top: 5px;
-  padding-bottom: 4px;
+  padding: 3px 5px 3px 6px;
   border-radius: 8px;
 }
 
+.session-card.compact .card-meta {
+  gap: 2px;
+}
+
+.session-card.compact .card-time {
+  font-size: 8.5px;
+  font-weight: 700;
+}
+
 .session-card.compact .card-title {
-  -webkit-line-clamp: 2;
-  font-size: 11px;
-  margin-top: 1px;
+  margin-top: 0;
 }
 
 .session-card.compact .card-room {
   display: none;
 }
 
+/* Narrow cards can't show time and room on one line, and the title wins. */
+.session-card.narrow:not(.tall) .card-room {
+  display: none;
+}
+
 .card-room {
-  display: block;
-  margin-top: 3px;
-  font-size: 9.5px;
+  flex: 0 100 auto;
+  min-width: 0;
+  margin-left: auto;
+  margin-right: 19px;
+  font-size: 8.5px;
+  text-align: right;
   color: var(--muted);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+.session-card.tall .card-room {
+  font-size: 9px;
 }
 
 .star-btn {
@@ -396,9 +443,29 @@ p {
   color: rgba(245, 243, 255, 0.65);
 }
 
+/* Inside timeline cards the star is a small corner overlay, so it never steals
+   a column of horizontal space from wrapped title lines. */
 .star-btn svg {
   width: 13px;
   height: 13px;
+}
+
+.session-card .star-btn {
+  top: 1px;
+  right: 1px;
+  transform: none;
+  width: 18px;
+  height: 18px;
+}
+
+.session-card .star-btn svg {
+  width: 11px;
+  height: 11px;
+}
+
+.session-card.compact .star-btn svg {
+  width: 10px;
+  height: 10px;
 }
 
 .star-btn[aria-pressed='true'] {

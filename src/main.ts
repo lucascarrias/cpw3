@@ -30,6 +30,64 @@ let nowTimer: number | undefined;
 let lastFocus: HTMLElement | null = null;
 
 const selectedCategories = new Set<string>();
+const FAVORITES_KEY = 'cpw-piaui3-favorites';
+const favorites = new Set<string>();
+
+function loadFavorites(): void {
+  try {
+    const raw = window.localStorage.getItem(FAVORITES_KEY);
+    if (!raw) return;
+    const ids: unknown = JSON.parse(raw);
+    if (!Array.isArray(ids)) return;
+    for (const id of ids) {
+      if (typeof id === 'string' && sessionMap.has(id)) favorites.add(id);
+    }
+  } catch {
+    // Storage can be unavailable or hold junk from older versions; start clean.
+  }
+}
+
+function saveFavorites(): void {
+  try {
+    window.localStorage.setItem(FAVORITES_KEY, JSON.stringify([...favorites]));
+  } catch {
+    // Private mode / quota: favorites keep working for this session only.
+  }
+}
+
+function isFavorite(id: string): boolean {
+  return favorites.has(id);
+}
+
+function starIcon(): string {
+  return `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg>`;
+}
+
+function syncFavoriteButtons(id: string): void {
+  const active = isFavorite(id);
+  document.querySelectorAll<HTMLElement>(`[data-fav="${CSS.escape(id)}"]`).forEach((button) => {
+    button.setAttribute('aria-pressed', String(active));
+    button.classList.toggle('is-on', active);
+    const label = button.querySelector<HTMLElement>('[data-fav-label]');
+    if (label) label.textContent = active ? 'Nos favoritos' : 'Favoritar';
+    button.setAttribute(
+      'aria-label',
+      active ? 'Remover dos favoritos' : 'Adicionar aos favoritos',
+    );
+  });
+  document.querySelectorAll<HTMLElement>(`[data-session="${CSS.escape(id)}"]`).forEach((card) => {
+    card.classList.toggle('is-favorite', active);
+  });
+}
+
+function toggleFavorite(id: string): void {
+  if (favorites.has(id)) favorites.delete(id);
+  else favorites.add(id);
+  saveFavorites();
+  syncFavoriteButtons(id);
+  updateBadges();
+  if (activeView === 'favoritos') renderFavorites();
+}
 
 const esc = (value: unknown): string =>
   String(value ?? '').replace(
@@ -211,6 +269,11 @@ function updateBadges(): void {
     filterBadge.hidden = selectedCategories.size === 0;
     filterBadge.textContent = String(selectedCategories.size);
   }
+  const favBadge = document.querySelector<HTMLElement>('[data-fav-badge]');
+  if (favBadge) {
+    favBadge.hidden = favorites.size === 0;
+    favBadge.textContent = String(favorites.size);
+  }
 }
 
 function renderAgenda(): void {
@@ -303,13 +366,17 @@ function renderCard(placed: PlacedSession, columnWidth: number): string {
   const category = session.categories[0] ?? '';
   const color = categoryColor(category);
   const isLong = durationMinutes(session.start, session.end) >= 240;
+  const fav = isFavorite(session.id);
   return `
-    <button class="session-card${height < 64 ? ' compact' : ''}${isLong ? ' long-session' : ''}" style="--cat:${color};top:${top}px;height:${height}px;left:${column * columnWidth + 2}px;width:${columnWidth - 4}px" data-session="${esc(session.id)}" aria-label="${esc(session.title)}, ${formatTime(session.start)}">
+    <div class="session-card${height < 64 ? ' compact' : ''}${isLong ? ' long-session' : ''}${fav ? ' is-favorite' : ''}" role="button" tabindex="0" style="--cat:${color};top:${top}px;height:${height}px;left:${column * columnWidth + 2}px;width:${columnWidth - 4}px" data-session="${esc(session.id)}" aria-label="${esc(session.title)}, ${formatTime(session.start)}">
       <span class="card-time">${formatTime(session.start)} – ${formatTime(session.end)}</span>
       <span class="card-title">${esc(session.title)}</span>
       <span class="card-room">${esc(session.room)}</span>
       ${isLong ? '<span class="card-continuous">Ativação contínua</span>' : ''}
-    </button>`;
+      <button class="star-btn" data-fav="${esc(session.id)}" aria-pressed="${fav}" aria-label="${fav ? 'Remover dos favoritos' : 'Adicionar aos favoritos'}">
+        ${starIcon()}
+      </button>
+    </div>`;
 }
 
 function renderFilters(): void {
@@ -338,16 +405,89 @@ function renderFilters(): void {
   updateBadges();
 }
 
-// Placeholder until step 4 adds the favorites list.
+function favoriteSessions(): Session[] {
+  return data.sessions
+    .filter((session) => favorites.has(session.id))
+    .sort((a, b) => a.start.localeCompare(b.start));
+}
+
+function overlapWarnings(sessions: Session[]): string {
+  const conflicts: string[] = [];
+  for (let i = 0; i < sessions.length; i += 1) {
+    for (let j = i + 1; j < sessions.length; j += 1) {
+      const a = sessions[i];
+      const b = sessions[j];
+      if (new Date(a.start) < new Date(b.end) && new Date(b.start) < new Date(a.end)) {
+        conflicts.push(`
+          <li>
+            <strong>${formatTime(a.start)}–${formatTime(a.end)}</strong>
+            <span>${esc(a.title)}</span>
+            <span class="conflict-x">×</span>
+            <span>${esc(b.title)}</span>
+          </li>`);
+      }
+    }
+  }
+  if (!conflicts.length) return '';
+  return `
+    <div class="conflict-banner" role="status">
+      <p class="conflict-title">⚠️ Choque de horário</p>
+      <p class="conflict-sub">${conflicts.length === 1 ? 'Dois favoritos acontecem' : 'Alguns favoritos acontecem'} ao mesmo tempo:</p>
+      <ul>${conflicts.join('')}</ul>
+    </div>`;
+}
+
 function renderFavorites(): void {
   const view = document.querySelector<HTMLElement>('#view-favoritos');
   if (!view) return;
+  const sessions = favoriteSessions();
+
+  if (!sessions.length) {
+    view.innerHTML = `
+      <div class="view-head">
+        <h2>Favoritos</h2>
+        <span class="view-meta">0 atividades</span>
+      </div>
+      <div class="empty">
+        <div class="empty-icon">⭐</div>
+        <h3>Nenhum favorito ainda</h3>
+        <p>Toque na estrela de uma atividade para montar a sua agenda pessoal. Tudo fica salvo só neste aparelho.</p>
+        <button data-go-agenda>Explorar a agenda</button>
+      </div>`;
+    return;
+  }
+
+  const groups: string[] = [];
+  const list = sessions
+    .map((session) => {
+      const date = session.start.slice(0, 10);
+      const header = groups.includes(date)
+        ? ''
+        : `<h3 class="fav-day">${esc(dayLabel(date))}</h3>`;
+      if (!groups.includes(date)) groups.push(date);
+      const color = categoryColor(session.categories[0] ?? '');
+      return `${header}
+        <article class="fav-item" style="--cat:${color}">
+          <button class="fav-main" data-session="${esc(session.id)}" aria-label="Ver detalhes de ${esc(session.title)}">
+            <span class="fav-time">${formatTime(session.start)} – ${formatTime(session.end)}</span>
+            <span class="fav-title">${esc(session.title)}</span>
+            <span class="fav-room">${esc(session.room)}</span>
+          </button>
+          <button class="star-btn fav-star" data-fav="${esc(session.id)}" aria-pressed="true" aria-label="Remover dos favoritos">
+            ${starIcon()}
+          </button>
+        </article>`;
+    })
+    .join('');
+
   view.innerHTML = `
-    <div class="empty">
-      <div class="empty-icon">⭐</div>
-      <h3>Seus favoritos</h3>
-      <p>Em breve você poderá salvar atividades aqui.</p>
-    </div>`;
+    <div class="view-head">
+      <h2>Favoritos</h2>
+      <span class="view-meta">${sessions.length} atividade${sessions.length === 1 ? '' : 's'}</span>
+    </div>
+    ${overlapWarnings(sessions)}
+    <div class="fav-list">${list}</div>
+    <p class="fav-note">Salvos apenas neste aparelho, sem conta e sem sincronização.</p>`;
 }
 
 function toggleCategory(category: string): void {
@@ -389,6 +529,9 @@ function openSheet(sessionId: string): void {
             <span>${formatDuration(durationMinutes(session.start, session.end))}</span>
           </p>
           <p class="sheet-room"><span class="pin" aria-hidden="true"></span>${esc(session.room)}</p>
+          <button class="fav-pill" data-fav="${esc(session.id)}" aria-pressed="${isFavorite(session.id)}">
+            ${starIcon()}<span data-fav-label>${isFavorite(session.id) ? 'Nos favoritos' : 'Favoritar'}</span>
+          </button>
           ${
             session.desc
               ? `<p class="sheet-desc">${esc(session.desc)}</p>`
@@ -483,8 +626,23 @@ function handleCardClick(event: Event): void {
     expand.textContent = expanded ? 'Mostrar menos' : 'Ler mais';
     return;
   }
+  const fav = target.closest<HTMLElement>('[data-fav]');
+  if (fav?.dataset.fav) {
+    toggleFavorite(fav.dataset.fav);
+    return;
+  }
   const card = target.closest<HTMLElement>('[data-session]');
   if (card?.dataset.session) openSheet(card.dataset.session);
+}
+
+function handleCardKeydown(event: KeyboardEvent): void {
+  if (event.key !== 'Enter' && event.key !== ' ') return;
+  const target = event.target;
+  if (!(target instanceof HTMLElement) || target.dataset.fav) return;
+  const card = target.closest<HTMLElement>('[data-session]');
+  if (!card?.dataset.session) return;
+  event.preventDefault();
+  openSheet(card.dataset.session);
 }
 
 function updateNowLine(): void {
@@ -541,8 +699,11 @@ async function init(): Promise<void> {
   if (data.meta.days.some((day) => day.date === today)) activeDay = today;
 
   renderShell();
+  loadFavorites();
   app!.addEventListener('click', handleCardClick);
+  app!.addEventListener('keydown', handleCardKeydown);
   renderAgenda();
+  updateBadges();
 
   document.addEventListener('keydown', (event) => {
     if (event.key === 'Escape') closeSheet();
@@ -555,6 +716,3 @@ async function init(): Promise<void> {
 
 void init();
 
-// Kept for the next steps and to guarantee the helpers stay referenced.
-void dayLabel;
-void CATEGORIES;

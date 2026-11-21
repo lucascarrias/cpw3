@@ -115,6 +115,19 @@ function dayLabel(date: string): string {
   return info?.label ?? date;
 }
 
+function dateRangeLabel(): string {
+  const days = data.meta.days;
+  if (!days.length) return '';
+  const first = shortDayLabel(days[0].date);
+  const last = shortDayLabel(days[days.length - 1].date);
+  if (first.month === last.month) {
+    return first.day === last.day
+      ? `${first.day} ${first.month}`
+      : `${first.day}–${last.day} ${first.month}`;
+  }
+  return `${first.day} ${first.month} – ${last.day} ${last.month}`;
+}
+
 function renderLoading(): void {
   app!.innerHTML = `
     <div class="boot" aria-busy="true" aria-label="Carregando programação">
@@ -177,7 +190,7 @@ function renderShell(): void {
             <p class="eyebrow">Campus Party Weekend</p>
             <h1>CPW Piauí #3</h1>
           </div>
-          <span class="brand-dates">21–22 nov</span>
+          <span class="brand-dates">${esc(dateRangeLabel())}</span>
         </div>
         <nav class="day-tabs" role="tablist" aria-label="Dias do evento">${dayTabs()}</nav>
       </header>
@@ -238,6 +251,7 @@ function updateDayTabs(): void {
 }
 
 function setView(view: typeof activeView): void {
+  if (view === activeView) return;
   activeView = view;
   document.querySelectorAll<HTMLButtonElement>('.nav-btn').forEach((button) => {
     const isActive = button.dataset.view === view;
@@ -251,6 +265,7 @@ function setView(view: typeof activeView): void {
   if (view === 'agenda') renderAgenda();
   if (view === 'filtros') renderFilters();
   if (view === 'favoritos') renderFavorites();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 function chipsMarkup(): string {
@@ -669,7 +684,8 @@ function maybeAutoScroll(): void {
   requestAnimationFrame(() => {
     const rect = line.getBoundingClientRect();
     const header = document.querySelector<HTMLElement>('.app-header')?.offsetHeight ?? 140;
-    window.scrollTo({ top: window.scrollY + rect.top - header - 34, behavior: 'smooth' });
+    const chips = document.querySelector<HTMLElement>('.chips-scroll')?.offsetHeight ?? 0;
+    window.scrollTo({ top: window.scrollY + rect.top - header - chips - 26, behavior: 'smooth' });
   });
 }
 

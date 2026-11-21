@@ -1,0 +1,21 @@
+{
+  "name": "CPW Piauí #3 — Programação",
+  "short_name": "CPW Piauí #3",
+  "description": "Programação oficial da Campus Party Piauí #3, com filtros por trilha e favoritos no seu aparelho.",
+  "lang": "pt-BR",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0716",
+  "theme_color": "#6d28d9",
+  "categories": ["events", "productivity"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

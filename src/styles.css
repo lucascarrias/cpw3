@@ -333,11 +333,15 @@ p {
 
 .card-time {
   display: block;
-  font-size: 10px;
+  padding-right: 2px;
+  font-size: 9.5px;
   font-weight: 800;
   font-variant-numeric: tabular-nums;
   color: var(--cat);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .card-title {
@@ -380,11 +384,12 @@ p {
 
 .star-btn {
   position: absolute;
-  top: 4px;
-  right: 4px;
+  top: 50%;
+  right: 2px;
+  transform: translateY(-50%);
   z-index: 3;
-  width: 26px;
-  height: 26px;
+  width: 24px;
+  height: 24px;
   display: grid;
   place-items: center;
   border-radius: 50%;
@@ -392,8 +397,8 @@ p {
 }
 
 .star-btn svg {
-  width: 15px;
-  height: 15px;
+  width: 13px;
+  height: 13px;
 }
 
 .star-btn[aria-pressed='true'] {
@@ -428,8 +433,8 @@ p {
 
 .now-line span {
   position: absolute;
-  right: 4px;
-  top: -16px;
+  left: 12px;
+  top: -17px;
   font-size: 9px;
   font-weight: 800;
   text-transform: uppercase;
@@ -1041,6 +1046,7 @@ body.sheet-open {
 .fav-star {
   top: 8px;
   right: 6px;
+  transform: none;
 }
 
 .conflict-banner {

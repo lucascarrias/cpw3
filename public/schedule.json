@@ -1,0 +1,2503 @@
+{
+  "meta": {
+    "event": "Campus Party Piauí #3",
+    "source": "https://api.4.events/activities/schedule/18443/108/v2",
+    "sourcePage": "https://app.4.events/c/SlN3elFGUXRJeXhnQ21BSw==/108/programacao-evento.html",
+    "timeZone": "America/Fortaleza",
+    "generatedAt": "2026-11-21T14:02:41.526Z",
+    "days": [
+      {
+        "date": "2026-11-21",
+        "label": "21 de Novembro"
+      },
+      {
+        "date": "2026-11-22",
+        "label": "22 de Novembro"
+      }
+    ],
+    "categories": [
+      "INTELIGÊNCIA ARTIFICIAL",
+      "GAMES E E-SPORTS",
+      "ASTRONOMIA",
+      "EMPREENDEDORISMO E STARTUPS",
+      "PROGRAMAÇÃO E HACKING",
+      "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "TECNOLOGIA QUÂNTICA E CIBERSEGURANÇA",
+      "ARTE E CULTURA GEEK",
+      "CIÊNCIA E BIOTECNOLOGIA"
+    ],
+    "sessionCount": 99,
+    "speakerCount": 132
+  },
+  "sessions": [
+    {
+      "id": "8897",
+      "title": "Cerimônia de abertura #CPWPiauí3",
+      "desc": "A tão aguardada #CPWPiauí3 chega em 2026 reafirmando toda a grandiosidade e energia que fazem da Campus Party um dos maiores eventos do país. A cerimônia de abertura marca o início dessa jornada repleta de tecnologia, criatividade e colaboração, reunindo campuseiros, comunidades, parceiros e autoridades em um momento especial de celebração. Prepare-se para viver uma experiência única, conectar-se com pessoas inspiradoras e embarcar em mais uma edição inesquecível da Campus Party Weekend Piauí!",
+      "start": "2026-11-21T10:00:00-03:00",
+      "end": "2026-11-21T11:30:00-03:00",
+      "room": "What's Next",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7356"
+      ]
+    },
+    {
+      "id": "8981",
+      "title": "O Hype da Inteligência Artificial: Um guia para quem aprende e para quem ensina",
+      "desc": "Uma conversa sobre o que é e o que não é a IA que vemos atualmente, o que ela oferece e como ela está entrando na educação.",
+      "start": "2026-11-21T11:30:00-03:00",
+      "end": "2026-11-21T12:30:00-03:00",
+      "room": "What's Next",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7365"
+      ]
+    },
+    {
+      "id": "8998",
+      "title": "Atividades Arena Campus Mission",
+      "desc": "Fast Reaction - Decisão em Milissegundos - Prepare-se para testar seus reflexos! O Fast Reaction é um desafio que coloca à prova a capacidade de concentração, percepção e velocidade de resposta dos participantes. Diante de estímulos visuais ou sonoros, será preciso processar informações e reagir no menor tempo possível. Uma experiência interativa que combina agilidade mental, atenção e tomada de decisão.\n\nSpeed Light - Agilidade e Reflexos em Alta Velocidade. - Velocidade e precisão são fundamentais neste desafio! No Speed Light, os participantes precisam identificar e acertar rapidamente as luzes que se acendem no equipamento, colocando à prova seus reflexos, coordenação motora e capacidade de concentração. Uma experiência dinâmica e competitiva, na qual cada segundo conta e a agilidade faz toda a diferença!\n\nNervo Teste Big - Teste o Foco e a Precisão - Mãos firmes e muita concentração são os segredos deste desafio! No Nervo Teste Big, os participantes precisam conduzir uma argola ao longo de um circuito metálico, percorrendo todo o trajeto sem encostar na estrutura. Qualquer toque pode comprometer o resultado! Inspirado nos clássicos desafios de habilidade, o jogo exige precisão, controle motor e paciência, garantindo momentos de diversão e competição.",
+      "start": "2026-11-21T11:40:00-03:00",
+      "end": "2026-11-21T20:00:00-03:00",
+      "room": "Ativações Especiais",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7464"
+      ]
+    },
+    {
+      "id": "8997",
+      "title": "Atividades Arena Free Play",
+      "desc": "Videogame: Desafio Free Play - Prepare o controle e entre no jogo! Neste espaço, os participantes poderão explorar diferentes títulos de videogame, desafiar amigos e testar suas habilidades em partidas cheias de diversão. Um ambiente para reunir a galera, competir de forma descontraída e descobrir novos desafios no universo dos games. \n\nRealidade Virtual: Entre em Outra Dimensão - Que tal sair do mundo real e explorar novas dimensões? Com experiências imersivas em realidade virtual, os participantes poderão interagir com ambientes digitais, experimentar jogos e vivenciar desafios que vão além da tela. Prepare-se para mergulhar em novas possibilidades proporcionadas pela tecnologia! \n\nJust Dance: Entre no Ritmo! - É hora de levantar, movimentar o corpo e mostrar seus melhores passos! No Just Dance, os participantes poderão acompanhar coreografias, desafiar amigos e dançar ao som de grandes sucessos. Não importa se você é profissional ou iniciante: o importante é entrar no ritmo e se divertir!\n\nFliperama: Diversão em Modo Retrô - Uma viagem pelo universo dos jogos clássicos! No espaço de fliperama, os participantes poderão reviver a nostalgia dos arcades, experimentar jogos que marcaram gerações e encarar desafios que continuam conquistando jogadores. Uma experiência que conecta diferentes gerações por meio da paixão pelos games.\n\nCockpit: Pilote Essa Experiência! - Assuma o volante e prepare-se para acelerar! No simulador de corrida, os participantes poderão experimentar a emoção das pistas em uma experiência imersiva, colocando à prova seus reflexos, precisão e habilidade ao volante. Ajuste sua estratégia, acelere e descubra quem tem o espírito de um verdadeiro piloto!",
+      "start": "2026-11-21T11:40:00-03:00",
+      "end": "2026-11-21T20:00:00-03:00",
+      "room": "Ativações Especiais",
+      "category": "GAMES E E-SPORTS",
+      "categories": [
+        "GAMES E E-SPORTS"
+      ],
+      "speakerIds": [
+        "7463"
+      ]
+    },
+    {
+      "id": "8909",
+      "title": "Astronomia para crianças",
+      "desc": "Uma introdução leve e divertida ao céu: planetas, estrelas, Lua e constelações explicados de criança para criança. Catarina Silva Lopes, embaixadora do Projeto Saturn, mostra como a curiosidade pode virar ciência.",
+      "start": "2026-11-21T12:30:00-03:00",
+      "end": "2026-11-21T13:50:00-03:00",
+      "room": "Arena TRON",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7366"
+      ]
+    },
+    {
+      "id": "8977",
+      "title": "Da intenção ao código: o papel da especificação na era dos agentes de IA",
+      "desc": "Você já pediu código a uma inteligência artificial e aceitou o resultado sem saber bem por quê? Essa prática, conhecida como vibe coding, funciona para protótipos, mas costuma falhar quando o software precisa durar. Nesta apresentação, vamos entender o Spec-Driven Development (SDD), uma abordagem que coloca a especificação, escrita de forma estruturada e versionada, no centro do desenvolvimento, antes de qualquer linha de código. Veremos de onde surgiu o problema, o que é uma spec na prática, como ela guia agentes de IA, quais ferramentas já existem e, principalmente, o que a comunidade ainda discute: se o SDD é o futuro da engenharia de software ou apenas uma cascata com roupa nova.",
+      "start": "2026-11-21T12:30:00-03:00",
+      "end": "2026-11-21T13:00:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7465"
+      ]
+    },
+    {
+      "id": "8906",
+      "title": "Da Terra às Estrelas",
+      "desc": "Façamos juntos um passeio pelo Sistema Solar, rumo ao centro da Via Láctea. Nesta palestra, embarcaremos em uma fascinante jornada pelo Universo, partindo da Terra e explorando a Lua, os planetas do Sistema Solar, as estrelas e as regiões mais distantes da nossa galáxia, até chegarmos ao misterioso buraco negro supermassivo Sagitário A*, localizado no centro da Via Láctea. Ao longo dessa viagem, conheceremos fenômenos astronômicos surpreendentes e compreenderemos as extraordinárias distâncias que separam os corpos celestes. Com imagens, simulações e uma linguagem acessível, esta palestra é um convite a descobrir as dimensões da nossa galáxia e a refletir sobre o nosso lugar no Universo.",
+      "start": "2026-11-21T12:30:00-03:00",
+      "end": "2026-11-21T13:50:00-03:00",
+      "room": "Workshop Supernova",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7383"
+      ]
+    },
+    {
+      "id": "8928",
+      "title": "Introdução a blockchain: conceitos, funcionamento e aplicações",
+      "desc": "A palestra apresenta uma introdução aos fundamentos da tecnologia blockchain, abordando sua origem, funcionamento e principais aplicações. Serão explorados conceitos como sistemas distribuídos, criptografia, encadeamento de blocos, validação de transações e mecanismos de consenso. Também serão apresentadas plataformas como Ethereum, destacando suas características e diferenças em relação a outras soluções do mercado. A palestra será ministrada por um graduado em Ciência da Computação pela UESPI, que desenvolveu seu Trabalho de Conclusão de Curso com uso de blockchain, por meio do Laboratório de Engenharia de Software (LES) da instituição.",
+      "start": "2026-11-21T12:30:00-03:00",
+      "end": "2026-11-21T13:00:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7403"
+      ]
+    },
+    {
+      "id": "8982",
+      "title": "Meet and Greet - Atila Iamarino",
+      "desc": "Olá pessoal! Você é fã do Atila? Não perca essa chance única de encontrar seu ídolo de pertinho e tirar uma foto incrível! Este momento será logo após a palestra ao lado do palco What's Next, o nosso convidado estará recebendo você campuseiro(a). Será organizado com fila e senha para atendimento. Pedimos que não seja gravado videos, somente foto ;)",
+      "start": "2026-11-21T12:30:00-03:00",
+      "end": "2026-11-21T13:00:00-03:00",
+      "room": "What's Next",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7365"
+      ]
+    },
+    {
+      "id": "8900",
+      "title": "Quem Está no Controle: Você ou a Inteligência Artificial? — Da IA à Escolha da Linguagem de Programação",
+      "desc": "Como utilizar a Inteligência Artificial no desenvolvimento de software sem depender cegamente das suas respostas? Nesta palestra, vamos explorar a importância do pensamento crítico e da tomada de decisões ao utilizar IA para programar. Também abordaremos como escolher a linguagem de programação mais adequada para cada projeto, considerando custos, infraestrutura, manutenção, conhecimento da equipe e necessidades do cliente. Com exemplos práticos e linguagem acessível, o público aprenderá a utilizar a IA como ferramenta de apoio, mantendo o controle sobre as decisões técnicas.",
+      "start": "2026-11-21T12:30:00-03:00",
+      "end": "2026-11-21T13:00:00-03:00",
+      "room": "Startup & Business",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7381"
+      ]
+    },
+    {
+      "id": "8904",
+      "title": "Reforma Tributária: O que Muda na Prática para o Pequeno Empreendedor",
+      "desc": "Descomplicando as principais alterações da Reforma Tributária e como elas impactam diretamente o caixa, a emissão de notas e o planejamento fiscal de micro e pequenas empresas. Fornecendo um mapa mental para transição segura.",
+      "start": "2026-11-21T12:30:00-03:00",
+      "end": "2026-11-21T13:00:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7476"
+      ]
+    },
+    {
+      "id": "8881",
+      "title": "Negócios de Impacto Social: quando sustentabilidade deixa de ser discurso e vira estratégia",
+      "desc": "Em um mundo cada vez mais conectado e atento aos desafios sociais e ambientais, inovar também significa encontrar soluções capazes de transformar realidades. Nesta palestra, Tiago Mochileiro conecta empreendedorismo social, sustentabilidade e inovação a partir de sua experiência à frente do Mochileiro pela Educação, iniciativa que utiliza a literatura e a educação como ferramentas de transformação social. \nA atividade aborda negócios de impacto social, Agenda 2030 e Objetivos de Desenvolvimento Sustentável (ODS), relacionando esses conceitos aos desafios de empreendedores, startups, empresas e profissionais que buscam gerar valor para a sociedade. \nO palestrante convida o público a repensar modelos de negócio e reconhecer o potencial da inovação social para promover impacto positivo e desenvolvimento sustentável. A palestra destaca como educação, literatura, ideias e metodologias podem atuar como tecnologias sociais, ampliando oportunidades e contribuindo para um futuro mais inclusivo.",
+      "start": "2026-11-21T13:00:00-03:00",
+      "end": "2026-11-21T14:00:00-03:00",
+      "room": "What's Next",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7349"
+      ]
+    },
+    {
+      "id": "8930",
+      "title": "Como a contabilidade faz sua startup ser um sucesso",
+      "desc": "Muitos acham que a contabilidade serve apenas para cumprir obrigações fiscais — e isso é um dos maiores erros de uma startup de sucesso. Na verdade, ela é uma ferramenta estratégica indispensável que pode definir o futuro do seu negócio.\nEsta palestra mostra como uma contabilidade estruturada desde o primeiro dia protege seu caixa, orienta suas decisões e torna sua empresa muito mais atraente para investidores. Vamos explorar os desafios contábeis mais comuns de quem está começando, a importância de separar finanças pessoais e empresariais, e como usar demonstrativos contábeis como guia para crescer com segurança.\nCom exemplos práticos e orientações valiosas, você vai entender por que startups que cuidam bem da sua contabilidade crescem de forma mais sustentável, conquistam mais credibilidade e têm muito mais chances de se consolidarem no mercado.",
+      "start": "2026-11-21T13:10:00-03:00",
+      "end": "2026-11-21T13:40:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7406",
+        "7407",
+        "7408"
+      ]
+    },
+    {
+      "id": "8921",
+      "title": "Do primeiro contato à venda: como criar funis de vendas inteligentes com IA",
+      "desc": "A palestra apresenta como integrar funis de vendas digitais e inteligência artificial para aprimorar a prospecção, a pré-qualificação de leads e a análise de dados comerciais. Com exemplos práticos, mostra como conectar marketing, CRM e equipe de vendas para automatizar atendimentos, identificar oportunidades com maior potencial de compra e aumentar a conversão em cada etapa da jornada do cliente.",
+      "start": "2026-11-21T13:10:00-03:00",
+      "end": "2026-11-21T13:40:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS",
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7397"
+      ]
+    },
+    {
+      "id": "8901",
+      "title": "Do Zero ao cliente 1000: como escalar seu negócio",
+      "desc": "Apresenta a trajetória do Jambo Coworking, compartilhando aprendizados, estratégias e desafios para transformar uma ideia em um negócio sustentável, conquistar clientes e crescer de forma estruturada. Uma experiência prática sobre empreendedorismo, gestão, vendas e escala.",
+      "start": "2026-11-21T13:10:00-03:00",
+      "end": "2026-11-21T13:40:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7382"
+      ]
+    },
+    {
+      "id": "8939",
+      "title": "IA na rede estadual: o que já está em sala de aula e o que vem em 2027",
+      "desc": "A inteligência artificial já chegou às escolas da rede estadual do Piauí. Nesta conversa, os secretários da Educação e de Inteligência Artificial mostram como a IA vem sendo usada em sala de aula, o que já mudou na rotina de professores e estudantes e quais são os próximos passos previstos para 2027. Um olhar sobre como a política pública pode colocar o Piauí na vanguarda da educação conectada.",
+      "start": "2026-11-21T13:10:00-03:00",
+      "end": "2026-11-21T13:40:00-03:00",
+      "room": "Startup & Business",
+      "category": "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "categories": [
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7399",
+        "7426",
+        "7486"
+      ]
+    },
+    {
+      "id": "8893",
+      "title": "Abertura do Ideathon",
+      "desc": "Os Ideathons da Campus Party são “maratonas” onde os participantes se reúnem por alguns dias, para criar e explorar novas ideias, desenvolver projetos inovadores.",
+      "start": "2026-11-21T13:50:00-03:00",
+      "end": "2026-11-21T15:00:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7364",
+        "7363"
+      ]
+    },
+    {
+      "id": "8915",
+      "title": "Como desenvolver Mentes brilhantes",
+      "desc": "Como formar pessoas capazes de pensar com criatividade, senso crítico e propósito? Neste debate, dois professores, da UFPI e da UEMA, trazem perspectivas complementares sobre o papel da universidade, do ensino e do ambiente na construção de mentes brilhantes. Uma conversa aberta para confrontar ideias e sair com caminhos práticos.",
+      "start": "2026-11-21T13:50:00-03:00",
+      "end": "2026-11-21T14:20:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7389",
+        "7390"
+      ]
+    },
+    {
+      "id": "8931",
+      "title": "Como transformar sua pesquisa em uma startup",
+      "desc": "Sua pesquisa científica não precisa ficar guardada em um artigo: ela pode transformar o mercado!\nO ecossistema de inovação vive uma grande mudança de paradigma: hoje, a fronteira do conhecimento caminha lado a lado com a resolução de dores reais da sociedade. As novas tecnologias e metodologias ágeis abriram caminhos para que cientistas e pesquisadores também se tornem fundadores de negócios de alto impacto.",
+      "start": "2026-11-21T13:50:00-03:00",
+      "end": "2026-11-21T14:20:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7409"
+      ]
+    },
+    {
+      "id": "8940",
+      "title": "SoberanIA: o modelo de IA brasileiro feito no Piauí",
+      "desc": "Um modelo de inteligência artificial brasileiro, desenvolvido no Piauí. Nesta palestra, o Parque de Inovação e Tecnologia (PIT) e a Investe Piauí apresentam o SoberanIA e discutem por que soberania tecnológica importa, como dados, talentos e infraestrutura locais podem gerar uma IA feita para a realidade brasileira e quais oportunidades isso abre para o desenvolvimento econômico do estado.",
+      "start": "2026-11-21T13:50:00-03:00",
+      "end": "2026-11-21T14:20:00-03:00",
+      "room": "Startup & Business",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7427",
+        "7428"
+      ]
+    },
+    {
+      "id": "8890",
+      "title": "Futuros Exponenciais para Professores: Gerando mais Impacto e Renda através da Inovação",
+      "desc": "Workshop que visa apresentar ao professor uma jornada passo a passo de como ir além do modelo valor/hora de remuneração para construir um futuro exponencial através da inovação. O workshop apresenta práticas de como transformar projetos acadêmicos, programas de extensão e pesquisas científicas em inovações reais que gerem mais impacto na sociedade e mais fontes de renda para os docentes. Ao final, através de uma atividade prática, será feito a modelagem de um futuro exponencial com mais impacto e renda para os professores presentes. Como um guia de referência são apresentadas diversas maneiras e exemplos com que professores podem gerar mais impacto e renda em poucos anos, tais como o uso de editais de subvenção ou se tornando sócio de startups de seus alunos.",
+      "start": "2026-11-21T14:00:00-03:00",
+      "end": "2026-11-21T15:20:00-03:00",
+      "room": "Workshop Supernova",
+      "category": "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "categories": [
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7362"
+      ]
+    },
+    {
+      "id": "8910",
+      "title": "Nanossatélites",
+      "desc": "O que são nanossatélites, como funcionam e por que estão mudando a exploração espacial. Edwar Davila Montenegro mostra também como equipes estudantis podem participar da Olimpíada Brasileira de Satélites.\n\nApresentação extra: Alice Santos Lucena, Maria Júlia de Carvalho Costa e Valentina Portela Ferreira integram o time de destaque na apresentação do projeto IDBSat. Sob a orientação do Prof. Edward Dávila Montenegro, elas levam ao palco a Missão Niède Guidon, demonstrando como o desenvolvimento de um CanSat pode monitorar focos de incêndio no Parque Nacional Serra da Capivara/PI. Uma verdadeira união de tecnologia espacial de ponta com a preservação ambiental e cultural do nosso patrimônio!",
+      "start": "2026-11-21T14:00:00-03:00",
+      "end": "2026-11-21T15:20:00-03:00",
+      "room": "Arena TRON",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7367",
+        "7433",
+        "7434",
+        "7435"
+      ]
+    },
+    {
+      "id": "8923",
+      "title": "Do Piauí para o Mundo: quando o talento atravessa fronteiras",
+      "desc": "O Piauí está ocupando seu lugar no mapa global. Neste painel, o Secretário de Estado da Educação, Rodrigo Torres, apresenta a visão do Estado para conectar os estudantes da rede pública ao mundo e mostra como o programa Piauí para o Mundo vem abrindo portas para jovens piauienses viverem experiências internacionais. Em seguida, o palco passa para quem viveu essa jornada: alunos que participaram do intercâmbio compartilham os projetos que desenvolveram, os aprendizados que trouxeram na bagagem e como pretendem aplicar esse conhecimento para transformar o Piauí. Uma conversa sobre educação, oportunidade, protagonismo jovem e o futuro de um Estado que pensa global sem perder suas raízes.",
+      "start": "2026-11-21T14:10:00-03:00",
+      "end": "2026-11-21T15:10:00-03:00",
+      "room": "What's Next",
+      "category": "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "categories": [
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7399"
+      ]
+    },
+    {
+      "id": "8916",
+      "title": "Empreendedorismo Feminino no Piauí",
+      "desc": "O Piauí tem mulheres que transformam ideias em negócios e negócios em impacto. Nesta conversa, o empreendedorismo feminino é o ponto de partida para discutir desafios, oportunidades e caminhos para ampliar o protagonismo das mulheres na economia local. Uma troca para inspirar, conectar e fortalecer quem empreende no estado.",
+      "start": "2026-11-21T14:30:00-03:00",
+      "end": "2026-11-21T15:00:00-03:00",
+      "room": "Startup & Business",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7391"
+      ]
+    },
+    {
+      "id": "8941",
+      "title": "Estado como plataforma: o Piauí no modo GovTech",
+      "desc": "Como a tecnologia pode tornar o serviço público mais ágil, eficiente e próximo do cidadão? Nesta conversa, o BADESPI e a Piauí GovTech discutem o ecossistema GovTech no estado: inovação aberta entre governo e startups, financiamento a soluções tecnológicas e caminhos para que empreendedores levem suas ideias para dentro da gestão pública.",
+      "start": "2026-11-21T14:30:00-03:00",
+      "end": "2026-11-21T15:00:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7429",
+        "7430"
+      ]
+    },
+    {
+      "id": "8932",
+      "title": "Professor Upgrade: competências para ensinar na era da Inteligência Artificial",
+      "desc": "O avanço da Inteligência Artificial não elimina a importância do professor. Pelo contrário: exige um profissional ainda mais preparado para orientar, questionar, contextualizar e transformar informações em aprendizagem.\nA proposta da palestra é apresentar o conceito de “Professor Upgrade”: um processo de atualização profissional que combina experiência pedagógica, pensamento crítico, competências digitais e uso consciente da IA.\nMais do que aprender ferramentas, o professor precisa compreender como dialogar com sistemas de IA, verificar respostas, criar bons contextos e desenvolver atividades em que os estudantes sejam protagonistas, e não apenas consumidores de conteúdos gerados automaticamente.",
+      "start": "2026-11-21T14:30:00-03:00",
+      "end": "2026-11-21T15:00:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "categories": [
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7410"
+      ]
+    },
+    {
+      "id": "8933",
+      "title": "Da Ideia à Startup: Como Transformar Inovação em Negócios de Sucesso",
+      "desc": "Como transformar uma ideia inovadora em uma startup com potencial de crescimento? A palestra apresentará os principais caminhos para empreender no universo das startups, abordando desde a identificação de oportunidades e a validação de ideias até a construção de modelos de negócios, o desenvolvimento de soluções inovadoras e a busca por investimentos. Com uma abordagem prática e inspiradora, serão discutidos os desafios e as oportunidades do ecossistema de inovação, destacando o papel das universidades, da tecnologia e do empreendedorismo na transformação de ideias em negócios de impacto.",
+      "start": "2026-11-21T15:10:00-03:00",
+      "end": "2026-11-21T16:10:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7411",
+        "7412",
+        "7413"
+      ]
+    },
+    {
+      "id": "9001",
+      "title": "Inteligência Artificial na prática do Profissional ",
+      "desc": "Como usar a IA para gerar hipóteses, explorar ângulos criativos e superar o bloqueio inicial em diferentes áreas de atuação.\nCriando áudios, vídeos, slides e aplicações, tudo isso de GRAÇA!",
+      "start": "2026-11-21T15:10:00-03:00",
+      "end": "2026-11-21T16:10:00-03:00",
+      "room": "Startup & Business",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7488"
+      ]
+    },
+    {
+      "id": "8894",
+      "title": "Oficina: Como tirar sua ideia do papel!",
+      "desc": "Toda grande realização começa com uma ideia. Mas como transformá-la em algo concreto? Tirar uma ideia do papel é um desafio que envolve planejamento, criatividade, estratégia e atitude. Nesta oficina, os participantes vão conhecer caminhos e ferramentas para transformar ideias em projetos, identificar oportunidades, estruturar soluções e dar os primeiros passos para colocá-las em prática. A partir de orientações práticas, serão abordados temas como validação de ideias, identificação de problemas, definição de objetivos, planejamento e construção de soluções viáveis. Uma oportunidade para desenvolver o olhar empreendedor, experimentar possibilidades e descobrir que não é preciso ter tudo pronto para começar. Afinal, uma ideia só ganha vida quando damos o primeiro passo para realizá-la!",
+      "start": "2026-11-21T15:10:00-03:00",
+      "end": "2026-11-21T16:10:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7363",
+        "7364"
+      ]
+    },
+    {
+      "id": "8948",
+      "title": "Painel: Qual é a régua que um profissional júnior precisa atingir hoje para entrar no mercado de trabalho?",
+      "desc": "O painel aborda as expectativas do mercado de trabalho em relação aos profissionais em início de carreira, discutindo quais competências técnicas e comportamentais são necessárias para conquistar a primeira oportunidade e se destacar em um cenário cada vez mais competitivo e dinâmico. Um dos principais pontos é que ser júnior não significa saber pouco ou não ter responsabilidades, mas estar em processo de desenvolvimento, demonstrando capacidade de aprender, autonomia progressiva e disposição para resolver problemas. As empresas não esperam que um profissional iniciante domine todas as ferramentas ou tecnologias, mas procuram pessoas que apresentem uma boa base de conhecimento, curiosidade e capacidade de evolução. A mensagem central é: o mercado não espera um profissional júnior pronto, mas alguém que tenha fundamentos, saiba aprender, consiga colaborar e demonstre responsabilidade para transformar conhecimento em resultados.",
+      "start": "2026-11-21T15:10:00-03:00",
+      "end": "2026-11-21T16:10:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7437",
+        "7438",
+        "7439"
+      ]
+    },
+    {
+      "id": "8984",
+      "title": "Fórum de IA - ECA Digital e IA na Educação.",
+      "desc": "A inteligência artificial está transformando a educação e ampliando as possibilidades de ensino e aprendizagem, mas também trazendo novos desafios relacionados à segurança, à privacidade e aos direitos de crianças e adolescentes no ambiente digital. Neste painel, serão discutidos os impactos do ECA Digital, os desafios do uso responsável da inteligência artificial na educação e o papel de educadores, famílias e instituições na construção de ambientes digitais mais seguros, éticos e inclusivos.",
+      "start": "2026-11-21T15:20:00-03:00",
+      "end": "2026-11-21T16:20:00-03:00",
+      "room": "What's Next",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7426",
+        "7471",
+        "7487",
+        "7355",
+        "7473"
+      ]
+    },
+    {
+      "id": "8911",
+      "title": "Antes do Código",
+      "desc": "Do brincar ao robô: pensamento computacional na prática\nMuito antes da primeira linha de programação, o pensamento computacional já aparece nas brincadeiras, nos jogos e na resolução de problemas do dia a dia. Ana Amábile e Amanda Resende mostram como transformar o brincar em aprendizagem e conduzir crianças, de forma lúdica, até o universo da robótica.",
+      "start": "2026-11-21T15:30:00-03:00",
+      "end": "2026-11-21T16:20:00-03:00",
+      "room": "Arena TRON",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7368",
+        "7369"
+      ]
+    },
+    {
+      "id": "8983",
+      "title": "De setor a empresa: como a IA impulsionou a construção e maturidade digital",
+      "desc": "Como um setor do Grupo Ora virou uma empresa, e o que a inteligência artificial teve a ver com isso. Mostramos cases reais do que construímos com desenvolvimento impulsinado por IA e do que aprendemos no caminho.",
+      "start": "2026-11-21T15:30:00-03:00",
+      "end": "2026-11-21T16:50:00-03:00",
+      "room": "Workshop Supernova",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7469",
+        "7470"
+      ]
+    },
+    {
+      "id": "8949",
+      "title": "Além do Código: O Impacto das Soft Skills nas Empresas de Tecnologia",
+      "desc": "Uma reflexão sobre o equilíbrio entre competência técnica e relacionamento interpessoal no ecossistema de tecnologia. Vamos explorar como comunicação clara, liderança colaborativa e adaptabilidade transformam o dia a dia das equipes, alavancam resultados de negócio e preparam profissionais para os reais desafios das organizações modernas.",
+      "start": "2026-11-21T16:20:00-03:00",
+      "end": "2026-11-21T16:50:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7440"
+      ]
+    },
+    {
+      "id": "8905",
+      "title": "O futuro dos negócios não será apenas digital. Será Inteligente!",
+      "desc": "A inteligência artificial está transformando a maneira como as empresas atendem, vendem, gerenciam equipes e tomam decisões. Mas o que realmente muda quando a tecnologia encontra os desafios do empreendedorismo? \n Nesta palestra, vamos explorar como a integração entre IA, dados e gestão comercial está criando uma nova forma de empreender, utilizando pesquisas de campo, experiências em eventos nacionais e internacionais, além de dados e resultados reais de empresas que já aplicam essas tecnologias em suas operações. \n A apresentação conecta mais de 15 anos de experiência em gestão e empreendedorismo à construção de uma startup de inteligência artificial, compartilhando aprendizados de conversas com empresários e perspectivas trazidas do Web Summit Lisboa 2026. O público também participará de uma experiência interativa, com perguntas, análises de desafios reais e acesso a uma ferramenta de diagnóstico empresarial.",
+      "start": "2026-11-21T16:20:00-03:00",
+      "end": "2026-11-21T16:50:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7386"
+      ]
+    },
+    {
+      "id": "8917",
+      "title": "Piauí que empreende",
+      "desc": "Empreender a partir do território, com a cara e a identidade do Piauí. Dra. Kelly e Roland, da Zemp e da AJE, falam sobre o potencial dos negócios locais, os desafios de crescer a partir daqui e como comunicação, tecnologia e rede de apoio podem transformar pequenos empreendimentos em referências que vão além do estado.",
+      "start": "2026-11-21T16:20:00-03:00",
+      "end": "2026-11-21T16:50:00-03:00",
+      "room": "Startup & Business",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7393",
+        "7392"
+      ]
+    },
+    {
+      "id": "8934",
+      "title": "Workshop de Criação de Servidores de MCP",
+      "desc": "Workshop prático voltado à introdução e ao desenvolvimento de servidores MCP, protocolo que permite integrar modelos de Inteligência Artificial a ferramentas, APIs e fontes de dados externas. Os participantes aprenderão os principais conceitos, a arquitetura e o funcionamento do MCP, além de desenvolver servidores capazes de ampliar as funcionalidades de agentes de IA e aplicações baseadas em LLMs, por meio de exemplos práticos e integrações reais.",
+      "start": "2026-11-21T16:20:00-03:00",
+      "end": "2026-11-21T16:50:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7414"
+      ]
+    },
+    {
+      "id": "8912",
+      "title": "Como conquistar medalhas olímpicas",
+      "desc": "Dicas práticas de estudo, organização e motivação para quem quer se destacar nas olimpíadas científicas. Heitor Luiz compartilha sua trajetória de multimedalhista e o que aprendeu pelo caminho.",
+      "start": "2026-11-21T16:30:00-03:00",
+      "end": "2026-11-21T17:00:00-03:00",
+      "room": "Arena TRON",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA",
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7370"
+      ]
+    },
+    {
+      "id": "8927",
+      "title": "Lançamento do Telescópio Saturn",
+      "desc": "Desenvolvido com propósito educativo, o telescópio Saturn combina materiais acessíveis e peças produzidas por impressão 3D para aproximar estudantes e entusiastas de todo o mundo da ciência por meio da observação do céu. A astronomia desperta a curiosidade de crianças e jovens e abre caminhos para aprender física, matemática e tecnologia. Observar o céu também nos convida a refletir sobre nossa existência e nosso lugar no Universo, formular perguntas e desenvolver o pensamento crítico. Venha conhecer o Projeto Saturn e descobrir como acessar os materiais para fabricar seu próprio telescópio.",
+      "start": "2026-11-21T16:30:00-03:00",
+      "end": "2026-11-21T17:00:00-03:00",
+      "room": "What's Next",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7402"
+      ]
+    },
+    {
+      "id": "8882",
+      "title": "Contactless Under Attack: PIN Bypass, EMV e Apple Pay",
+      "desc": "Como funciona a segurança dos pagamentos por aproximação e quais são seus limites? Nesta palestra, Penegui apresenta pesquisas e demonstrações práticas envolvendo NFC, EMV e Apple Pay, abordando ataques de relay e falhas que podem permitir transações sem a solicitação de senha em determinados cenários. A apresentação explora as condições necessárias para esses ataques, seus impactos e possíveis medidas de proteção.",
+      "start": "2026-11-21T17:00:00-03:00",
+      "end": "2026-11-21T18:00:00-03:00",
+      "room": "What's Next",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING",
+        "TECNOLOGIA QUÂNTICA E CIBERSEGURANÇA"
+      ],
+      "speakerIds": [
+        "7350"
+      ]
+    },
+    {
+      "id": "8959",
+      "title": "Como descobrir asteroides",
+      "desc": "Atividade dedicada à apresentação do tema, compartilhamento de conhecimentos e experiências da equipe, proporcionando ao público uma oportunidade de conhecer mais sobre o assunto e suas possibilidades.",
+      "start": "2026-11-21T18:00:00-03:00",
+      "end": "2026-11-21T19:50:00-03:00",
+      "room": "Arena TRON",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7452",
+        "7454",
+        "7455",
+        "7457",
+        "7458"
+      ]
+    },
+    {
+      "id": "8907",
+      "title": "Inteligência Artificial na Educação: Da Teoria à Prática",
+      "desc": "Como transformar a IA em uma aliada do educador. A inteligência artificial está transformando a maneira como ensinamos e aprendemos. Mas como aproveitar essas tecnologias para tornar o trabalho do educador mais produtivo, criativo e eficiente? Neste workshop, os participantes conhecerão conceitos da inteligência artificial generativa, ferramentas e técnicas práticas para aplicação no cotidiano educacional. \nConduzido pelo professor Sandeco Macedo, embaixador da Campus Party, professor e pesquisador do Instituto Federal de Goiás (IFG) e da Universidade Federal de Goiás (UFG), o encontro apresentará demonstrações de como utilizar a IA para planejar aulas, produzir materiais didáticos, criar apresentações, desenvolver atividades, personalizar conteúdos e automatizar tarefas. Também serão explorados os agentes inteligentes e suas possibilidades na educação.",
+      "start": "2026-11-21T18:00:00-03:00",
+      "end": "2026-11-21T19:50:00-03:00",
+      "room": "Workshop Supernova",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7352"
+      ]
+    },
+    {
+      "id": "8943",
+      "title": "Meet and Greet - Penegui - Davi Mikael      ",
+      "desc": "Olá pessoal! Você é fã do Penegui? Não perca essa chance única de encontrar seu ídolo de pertinho e tirar uma foto incrível! Este momento será logo após a palestra ao lado do palco What's Next, o nosso convidado estará recebendo você campuseiro(a). Será organizado com fila e senha para atendimento. Pedimos que não seja gravado videos, somente foto ;)",
+      "start": "2026-11-21T18:00:00-03:00",
+      "end": "2026-11-21T18:30:00-03:00",
+      "room": "What's Next",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7350"
+      ]
+    },
+    {
+      "id": "8979",
+      "title": "Do problema de negócio ao produto: a arquitetura de soluções em uma ICT do Nordeste",
+      "desc": "A palestra tem por objetivo apresentar a arquitetura de soluções no contexto de uma ICT do Nordeste, mostrando como problemas da indústria e da sociedade podem se transformar em projetos de pesquisa aplicada e soluções tecnológicas. A partir de exemplos e do percurso da pesquisa à arquitetura, a ideia será mostrar essa área como uma possibilidade de carreira para quem se interessa por programação e quer participar de outras etapas do desenvolvimento como: compreender as necessidades, aproximar diferentes equipes e contribuir para que as soluções cheguem à aplicação real. Assim, o público poderá conhecer uma atuação que combina tecnologia, visão de negócio e impacto prático.",
+      "start": "2026-11-21T18:10:00-03:00",
+      "end": "2026-11-21T19:10:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7467"
+      ]
+    },
+    {
+      "id": "8889",
+      "title": "FUTURE HACKERS: Por que seguir o roteiro se podemos inventar o caminho?",
+      "desc": "Uma conversa sobre curiosidade, aprendizagem e o protagonismo humano na construção do futuro. Fomos ensinados a seguir caminhos: estudar, escolher uma profissão, desenvolver competências e aplicar o que aprendemos. Mas e quando o mundo muda mais rápido do que os roteiros que conhecemos? E se aprender fosse mais do que acumular conhecimentos, mas explorar possibilidades, conectar experiências e descobrir caminhos que ainda não existem? \nA partir das provocações do relatório Future Hacker Horizons 2026, Eduardo Iha, sócio do Future Hacker, conversa com Clayton Dick, Diretor Geral da Campus Party Brasil, sobre o conceito de Lifewide Learning — a aprendizagem que acontece em todas as dimensões da vida. Uma reflexão sobre curiosidade, criatividade, tecnologia e o papel humano em um mundo onde o futuro não vem com instruções. Porque o futuro não precisa ser apenas aprendido. Ele também pode ser inventado.",
+      "start": "2026-11-21T18:10:00-03:00",
+      "end": "2026-11-21T19:10:00-03:00",
+      "room": "Startup & Business",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "TECNOLOGIA QUÂNTICA E CIBERSEGURANÇA"
+      ],
+      "speakerIds": [
+        "7361",
+        "7478"
+      ]
+    },
+    {
+      "id": "8895",
+      "title": "Oficina: Construindo o Pitch Perfeito",
+      "desc": "Transforme sua ideia em uma apresentação capaz de despertar interesse, gerar conexões e abrir oportunidades. Toda grande ideia precisa ser bem comunicada. Mas como apresentar um projeto, produto ou negócio de forma clara, objetiva e convincente? Nesta oficina, os participantes vão conhecer os fundamentos de um pitch de sucesso e aprender a estruturar uma apresentação que destaque o problema identificado, a solução proposta, seu diferencial e o valor que ela entrega. Com orientações práticas e exercícios, a atividade aborda técnicas de comunicação, storytelling, argumentação e apresentação, ajudando a transformar ideias em mensagens capazes de conquistar a atenção de investidores, parceiros, clientes e potenciais colaboradores. Mais do que aprender a falar sobre uma ideia, é hora de descobrir como apresentá-la para fazer acontecer!",
+      "start": "2026-11-21T18:10:00-03:00",
+      "end": "2026-11-21T19:10:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7363",
+        "7364"
+      ]
+    },
+    {
+      "id": "8929",
+      "title": "Painel: Ainda vale a pena aprender programação em tempos de IA?",
+      "desc": "Em um cenário em que a inteligência artificial está transformando a maneira como desenvolvemos software, ainda vale a pena aprender programação?\nNeste painel, vamos discutir como a IA está impactando a engenharia de software, quais habilidades continuam sendo essenciais para os desenvolvedores e como se preparar para o futuro da profissão. Uma conversa sobre oportunidades, desafios e o novo papel de quem constrói tecnologia em tempos de inteligência artificial.",
+      "start": "2026-11-21T18:10:00-03:00",
+      "end": "2026-11-21T19:10:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7405",
+        "7404"
+      ]
+    },
+    {
+      "id": "8884",
+      "title": "Sobreviver de Internet: Reinventar ou Ficar Para Trás?",
+      "desc": "Uma conversa direta e bem-humorada sobre os desafios de viver da internet hoje: mudanças de plataforma, pressão por relevância, criatividade e a necessidade de se reinventar sem perder a própria identidade. Viver da internet é aprender a trabalhar em um lugar que muda o tempo todo. As plataformas se transformam, os formatos que funcionavam deixam de funcionar e, de repente, todo mundo parece estar falando sobre a próxima grande tendência. \nComo acompanhar essas mudanças sem perder a própria identidade — e sem depender de um único vídeo viral para continuar? Nesta palestra, Yasmin Yassine compartilha experiências e aprendizados de quem construiu uma trajetória no digital, encarando os desafios de criar, se adaptar e continuar relevante. Com humor, exemplos e histórias reais, ela fala sobre reinvenção, criatividade e os bastidores de uma carreira na internet — e mostra que sobreviver nesse meio não significa correr atrás de toda novidade, mas aprender a mudar com propósito.",
+      "start": "2026-11-21T18:30:00-03:00",
+      "end": "2026-11-21T19:30:00-03:00",
+      "room": "What's Next",
+      "category": "ARTE E CULTURA GEEK",
+      "categories": [
+        "ARTE E CULTURA GEEK"
+      ],
+      "speakerIds": [
+        "7351"
+      ]
+    },
+    {
+      "id": "8935",
+      "title": "Como a Comunicação pode ser a grande aliada para seu negócio em tempos de Inteligência Artificial?",
+      "desc": "Abordará a importância da comunicação estratégica como ferramenta essencial para fortalecer marcas, ampliar a conexão com o público e impulsionar resultados no ambiente empresarial. Em um cenário de constantes transformações tecnológicas, serão apresentadas reflexões e estratégias sobre como integrar a Inteligência Artificial aos processos de comunicação, potencializando a criatividade, a produtividade e a inovação, sem perder a autenticidade e o relacionamento humano. A atividade busca inspirar empreendedores, gestores e profissionais a utilizarem a comunicação de forma inteligente, inovadora e competitiva, transformando os desafios da era digital em oportunidades de crescimento e diferenciação no mercado.",
+      "start": "2026-11-21T19:20:00-03:00",
+      "end": "2026-11-21T19:50:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7415",
+        "7416",
+        "7411",
+        "7425"
+      ]
+    },
+    {
+      "id": "8899",
+      "title": "Comunicação e Marketing em tempos de IA Generativa",
+      "desc": "A IA generativa está reescrevendo as regras da comunicação e do marketing. Neste bate-papo, pesquisadores e profissionais da área discutem as novas possibilidades criativas, os impactos sobre o trabalho de comunicadores, os riscos da desinformação e os cuidados éticos necessários para usar a inteligência artificial de forma responsável.",
+      "start": "2026-11-21T19:20:00-03:00",
+      "end": "2026-11-21T19:50:00-03:00",
+      "room": "Startup & Business",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7379",
+        "7380",
+        "7377"
+      ]
+    },
+    {
+      "id": "8922",
+      "title": "O que toda empresa precisa saber sobre o uso da IA no seu negócio",
+      "desc": "Como o empreendedorismo já está sendo impactado pela IA, e como isso se for usado com os meios corretos será fundamental para o futuro de qualquer negócio. Agora falando das outras ( Como vai estar o cenário nos próximos anos para novos negócios e onde mais compensa investir , 10 passos para começar qualquer negócio com pouco investimento , o cenário desafiador pra o varejo feminino.",
+      "start": "2026-11-21T19:20:00-03:00",
+      "end": "2026-11-21T19:50:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7398"
+      ]
+    },
+    {
+      "id": "8957",
+      "title": "Web2 pra Web3: Tem tanta diferença assim?",
+      "desc": "Nesta palestra, vamos colocar a Web2 e a Web3 lado a lado para entender, na prática, o que realmente muda. Comparando as ferramentas, arquiteturas e sistemas que já usamos na internet tradicional com as soluções descentralizadas, vamos desmistificar as reais vantagens dessa transição. Entenda por que a Web3 é considerada a tecnologia do futuro, como ela resolve problemas de centralização e posse de dados, e o que isso significa para os próximos passos do desenvolvimento.",
+      "start": "2026-11-21T19:20:00-03:00",
+      "end": "2026-11-21T19:50:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7448"
+      ]
+    },
+    {
+      "id": "8944",
+      "title": "Meet and Greet - Yasmin Yassine   ",
+      "desc": "Olá pessoal! Você é fã da Yasmin Yassine? Não perca essa chance única de encontrar seu ídolo de pertinho e tirar uma foto incrível! Este momento será logo após a palestra ao lado do palco What's Next, o nosso convidado estará recebendo você campuseiro(a). Será organizado com fila e senha para atendimento. Pedimos que não seja gravado videos, somente foto ;)",
+      "start": "2026-11-21T19:30:00-03:00",
+      "end": "2026-11-21T20:00:00-03:00",
+      "room": "What's Next",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7351"
+      ]
+    },
+    {
+      "id": "8924",
+      "title": "Ninho de Carcará",
+      "desc": "O Ninho de Carcará é um evento de investimento inspirado no formato Shark Tank, em que empreendedores apresentam seus negócios a uma banca de investidores e jurados em busca de investimento, parceria ou validação. Cada participante tem poucos minutos para expor o problema, a solução, o modelo de negócio, a tração e o que está pedindo. Em seguida vem uma rodada de perguntas incisivas sobre números, mercado, concorrência e equipe. Ao final, os jurados fazem ofertas, negociam ao vivo ou declinam de fazer propostas.",
+      "start": "2026-11-21T19:30:00-03:00",
+      "end": "2026-11-21T21:30:00-03:00",
+      "room": "What's Next",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7400",
+        "7401"
+      ]
+    },
+    {
+      "id": "8996",
+      "title": "Atividades Arena Campus Mission",
+      "desc": "Fast Reaction - Decisão em Milissegundos - Prepare-se para testar seus reflexos! O Fast Reaction é um desafio que coloca à prova a capacidade de concentração, percepção e velocidade de resposta dos participantes. Diante de estímulos visuais ou sonoros, será preciso processar informações e reagir no menor tempo possível. Uma experiência interativa que combina agilidade mental, atenção e tomada de decisão.\n\nSpeed Light - Agilidade e Reflexos em Alta Velocidade. - Velocidade e precisão são fundamentais neste desafio! No Speed Light, os participantes precisam identificar e acertar rapidamente as luzes que se acendem no equipamento, colocando à prova seus reflexos, coordenação motora e capacidade de concentração. Uma experiência dinâmica e competitiva, na qual cada segundo conta e a agilidade faz toda a diferença!\n\nNervo Teste Big - Teste o Foco e a Precisão - Mãos firmes e muita concentração são os segredos deste desafio! No Nervo Teste Big, os participantes precisam conduzir uma argola ao longo de um circuito metálico, percorrendo todo o trajeto sem encostar na estrutura. Qualquer toque pode comprometer o resultado! Inspirado nos clássicos desafios de habilidade, o jogo exige precisão, controle motor e paciência, garantindo momentos de diversão e competição.",
+      "start": "2026-11-22T10:00:00-03:00",
+      "end": "2026-11-22T18:00:00-03:00",
+      "room": "Ativações Especiais",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7464"
+      ]
+    },
+    {
+      "id": "8995",
+      "title": "Atividades Arena Free Play",
+      "desc": "Videogame: Desafio Free Play - Prepare o controle e entre no jogo! Neste espaço, os participantes poderão explorar diferentes títulos de videogame, desafiar amigos e testar suas habilidades em partidas cheias de diversão. Um ambiente para reunir a galera, competir de forma descontraída e descobrir novos desafios no universo dos games. \n\nRealidade Virtual: Entre em Outra Dimensão - Que tal sair do mundo real e explorar novas dimensões? Com experiências imersivas em realidade virtual, os participantes poderão interagir com ambientes digitais, experimentar jogos e vivenciar desafios que vão além da tela. Prepare-se para mergulhar em novas possibilidades proporcionadas pela tecnologia! \n\nJust Dance: Entre no Ritmo! - É hora de levantar, movimentar o corpo e mostrar seus melhores passos! No Just Dance, os participantes poderão acompanhar coreografias, desafiar amigos e dançar ao som de grandes sucessos. Não importa se você é profissional ou iniciante: o importante é entrar no ritmo e se divertir!\n\nFliperama: Diversão em Modo Retrô - Uma viagem pelo universo dos jogos clássicos! No espaço de fliperama, os participantes poderão reviver a nostalgia dos arcades, experimentar jogos que marcaram gerações e encarar desafios que continuam conquistando jogadores. Uma experiência que conecta diferentes gerações por meio da paixão pelos games.\n\nCockpit: Pilote Essa Experiência! - Assuma o volante e prepare-se para acelerar! No simulador de corrida, os participantes poderão experimentar a emoção das pistas em uma experiência imersiva, colocando à prova seus reflexos, precisão e habilidade ao volante. Ajuste sua estratégia, acelere e descubra quem tem o espírito de um verdadeiro piloto!",
+      "start": "2026-11-22T10:00:00-03:00",
+      "end": "2026-11-22T18:00:00-03:00",
+      "room": "Ativações Especiais",
+      "category": "GAMES E E-SPORTS",
+      "categories": [
+        "GAMES E E-SPORTS"
+      ],
+      "speakerIds": [
+        "7463"
+      ]
+    },
+    {
+      "id": "8999",
+      "title": " Soluções inovadoras: o caminho para transformar ideias em negócios sustentáveis e competitivos",
+      "desc": "Como transformar ideias em negócios sustentáveis e competitivos? A palestra apresenta novos mercados para startups e as principais oportunidades de fomento, como editais, programas de aceleração, inovação aberta e compras públicas, para quem quer tirar a ideia do papel e crescer.",
+      "start": "2026-11-22T11:00:00-03:00",
+      "end": "2026-11-22T11:30:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7484"
+      ]
+    },
+    {
+      "id": "8887",
+      "title": "E se os agentes de IA entendessem sua intenção?",
+      "desc": "Por muito tempo, fomos nós que tivemos que entender os computadores: clicar no lugar certo, achar o botão, aprender a usar cada programa. Era a máquina que ditava o que dava para fazer. Mas e se isso estivesse mudando? Imagine simplesmente dizer ao computador o que você quer e ele descobrir como fazer. Essa transformação já começou, e nesta palestra vamos conhecer exemplos surpreendentes dessa nova era, em que agentes de inteligência artificial podem transformar nossas intenções em ações. Essa nova forma de pensar e construir sistemas inteligentes tem um nome: Engenharia de Intenção.",
+      "start": "2026-11-22T11:00:00-03:00",
+      "end": "2026-11-22T12:00:00-03:00",
+      "room": "What's Next",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7352"
+      ]
+    },
+    {
+      "id": "8918",
+      "title": "Economia Digital no Piauí: o case do marketplace Made in Piauí",
+      "desc": "Como levar o produto piauiense para o mercado digital? Nesta palestra, a coordenação do Made in Piauí e apresenta o case do marketplace que conecta produtores e empresas do estado a novos consumidores, mostrando como tecnologia, gestão e políticas de apoio podem fortalecer a economia digital e ampliar o alcance dos negócios locais.",
+      "start": "2026-11-22T11:00:00-03:00",
+      "end": "2026-11-22T11:30:00-03:00",
+      "room": "Startup & Business",
+      "category": "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "categories": [
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7394",
+        "7489"
+      ]
+    },
+    {
+      "id": "8936",
+      "title": "Inovar é preciso, proteger também: os desafios da inovação universitária",
+      "desc": "A discussão abordará os desafios da inovação no ambiente universitário, destacando o papel da propriedade intelectual na proteção e valorização do conhecimento científico e tecnológico. Serão exploradas as oportunidades e os desafios para transformar pesquisas e ideias em soluções inovadoras, aproximando universidades, mercado e sociedade.",
+      "start": "2026-11-22T11:00:00-03:00",
+      "end": "2026-11-22T11:30:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "categories": [
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7417",
+        "7418",
+        "7419"
+      ]
+    },
+    {
+      "id": "8950",
+      "title": "Minha mente tem mais abas que meu navegador: entre a curiosidade, a autossabotagem e o poder das comunidades.",
+      "desc": "Em um universo como o da tecnologia, onde novas ferramentas, linguagens e possibilidades surgem constantemente, é fácil querer aprender um pouco de tudo, mas o que acontece quando essa curiosidade se mistura com a insegurança, a comparação e a sensação de nunca saber o suficiente?\nNesta palestra, quero incentivar a reflexão sobre os desafios de ter múltiplos interesses, a dificuldade de manter o foco e como a vontade de aprender pode, em alguns momentos, se transformar em uma forma de procrastinação e autossabotagem. A partir de vivências pessoais e situações comuns a quem está começando ou já atua na tecnologia, explorar o papel das comunidades como espaços de acolhimento, troca de experiências, fortalecimento e descoberta de novas possibilidades. A proposta é mostrar que podemos explorar diferentes interesses, reconhecer nossas inseguranças e construir nossos próprios caminhos, sem precisar saber tudo ou fazer tudo sozinhos.",
+      "start": "2026-11-22T11:00:00-03:00",
+      "end": "2026-11-22T11:30:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "categories": [
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7441"
+      ]
+    },
+    {
+      "id": "8990",
+      "title": "Programação Competitiva na Prática com a Overflows",
+      "desc": "Você já pensou em transformar lógica, código e resolução de problemas em uma competição? Nesta atividade, você vai conhecer os principais conceitos da programação competitiva, a dinâmica das maratonas e descobrir como funciona a Overflows, uma plataforma gamificada desenvolvida para a prática, aprendizagem e realização de desafios de programação.\nDepois de uma breve apresentação, será a hora de colocar a mão na massa: você conhecerá as regras e participará de uma minimaratona resolvendo problemas reais na plataforma e acompanhando sua evolução no ranking em tempo real.\n\nObs.: é necessário ter notebook para participar da atividade.",
+      "start": "2026-11-22T11:00:00-03:00",
+      "end": "2026-11-22T12:50:00-03:00",
+      "room": "Workshop Supernova",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7480",
+        "7481",
+        "7482",
+        "7483"
+      ]
+    },
+    {
+      "id": "8960",
+      "title": "Três campeãs e o caminho até o pódio",
+      "desc": "Atividade dedicada ao compartilhamento de experiências e trajetórias pessoais, com relatos sobre desafios, aprendizados e conquistas ao longo de diferentes jornadas, proporcionando ao público um momento de troca e inspiração.",
+      "start": "2026-11-22T11:00:00-03:00",
+      "end": "2026-11-22T12:50:00-03:00",
+      "room": "Arena TRON",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7459",
+        "7460",
+        "7461"
+      ]
+    },
+    {
+      "id": "8925",
+      "title": "Prêmio B-R-O Bró",
+      "desc": "Evento de premiação que reconhece e valoriza a relevância de startups, pessoas e instituições para o ecossistema de inovação e tecnologia do Piauí, dando visibilidade e reconhecimento às iniciativas e ao trabalho feito por piauienses.",
+      "start": "2026-11-22T11:30:00-03:00",
+      "end": "2026-11-22T13:00:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7401",
+        "7400"
+      ]
+    },
+    {
+      "id": "8980",
+      "title": "Além dos widgets: construindo uma carreira com Flutter",
+      "desc": "“Além dos widgets: construindo uma carreira com Flutter” é uma palestra sobre os erros, acertos e aprendizados de uma trajetória no desenvolvimento mobile. A partir de experiências reais, a conversa mostra como as decisões do dia a dia moldam uma carreira. Ao final, quem está começando leva dicas práticas para estudar Flutter, criar os primeiros projetos e dar os próximos passos na área.",
+      "start": "2026-11-22T11:40:00-03:00",
+      "end": "2026-11-22T12:10:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7468"
+      ]
+    },
+    {
+      "id": "8942",
+      "title": "Da ideia ao impacto: a jornada da mulher empreendedora",
+      "desc": "Mulheres que empreendem, inovam e abrem caminho para outras. Nesta conversa, Jane Lima, da startup Atend Mulher, e Jannayna Tavares, professora empreendedora, compartilham suas jornadas, os desafios de empreender sendo mulher e o papel da tecnologia para ampliar o protagonismo feminino nos negócios e no ecossistema de inovação do Piauí.",
+      "start": "2026-11-22T11:40:00-03:00",
+      "end": "2026-11-22T12:10:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7431",
+        "7432"
+      ]
+    },
+    {
+      "id": "8988",
+      "title": "Menos é mais! Como pouco recurso financeiro pode gerar impacto social, ambiental e econômico",
+      "desc": "Demoday de 5 startups que geram impacto social, ambiental e econômico.",
+      "start": "2026-11-22T11:40:00-03:00",
+      "end": "2026-11-22T12:10:00-03:00",
+      "room": "Startup & Business",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7382"
+      ]
+    },
+    {
+      "id": "8883",
+      "title": "A IA apertou “enviar”. E agora?",
+      "desc": "Você pede uma mensagem, a IA escreve. Pede um código, ela gera. Agora imagine que ela também possa enviar, publicar, alterar arquivos e executar tarefas por você. Você daria essa liberdade? Com quais limites? Nesta palestra, Dani Monteiro convida você a explorar o que acontece quando a inteligência artificial ganha poder para agir. Com situações que conectam estudo, trabalho e vida digital, vamos discutir o que vale delegar, quais limites estabelecer e como acompanhar as ações de uma IA. Você sairá com três perguntas para levar ao seu próximo projeto: o que essa IA pode fazer, como vou saber o que ela fez e como recupero o controle se algo der errado?Para quem usa IA, quer desenvolver suas próprias soluções ou está escolhendo seu caminho na tecnologia.",
+      "start": "2026-11-22T12:10:00-03:00",
+      "end": "2026-11-22T13:10:00-03:00",
+      "room": "What's Next",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7353"
+      ]
+    },
+    {
+      "id": "8951",
+      "title": "Da conversa à ação: integrando IA aos sistemas com MCP",
+      "desc": "A inteligência artificial está deixando de ser apenas uma ferramenta de interação por texto para assumir um papel ativo nos processos e sistemas empresariais. Mas como conectar modelos de IA a aplicações, dados e ferramentas externas de maneira estruturada?\nNesta palestra, vamos explorar a integração de inteligência artificial com sistemas existentes, abordando APIs, automações e o Model Context Protocol (MCP). Serão apresentados conceitos de arquitetura, exemplos práticos de conexão com ferramentas externas e os cuidados necessários com segurança, permissões, validação de resultados e supervisão humana.\nA proposta é mostrar como transformar modelos de IA em componentes úteis de aplicações e processos reais, indo além da simples interação por prompts.",
+      "start": "2026-11-22T12:20:00-03:00",
+      "end": "2026-11-22T12:50:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7442"
+      ]
+    },
+    {
+      "id": "8903",
+      "title": "ISSO NÃO É UMA PALESTRA! Uma experiência sobre ciência, criatividade e o poder de questionar",
+      "desc": "E se, durante 30 minutos, você fosse convidado a duvidar de tudo aquilo que acredita saber? Nesta experiência interativa, ciência e criatividade se encontram em provocações e reflexões sobre o poder da curiosidade. Uma jornada divertida e inspiradora para descobrir como fazer perguntas, desafiar o óbvio e transformar ideias em possibilidades de inovação.",
+      "start": "2026-11-22T12:20:00-03:00",
+      "end": "2026-11-22T12:50:00-03:00",
+      "room": "Startup & Business",
+      "category": "CIÊNCIA E BIOTECNOLOGIA",
+      "categories": [
+        "CIÊNCIA E BIOTECNOLOGIA"
+      ],
+      "speakerIds": [
+        "7384"
+      ]
+    },
+    {
+      "id": "8958",
+      "title": "Painel Ecossistema de Inovação",
+      "desc": "O Piauí inova para além da capital. Este painel reúne os ecossistemas de inovação do estado (Carnaúba Valley, de Parnaíba; Cais Valley, de Floriano; Gurgueia Valley, de Bom Jesus; Serra Valley, de São Raimundo Nonato; Vale do Mel, de Picos; e ELITHE, de Teresina) para discutir como comunidades locais vêm construindo redes de startups, talentos e conexões em todas as regiões do estado. Mediação de Luciana Tsukada.",
+      "start": "2026-11-22T12:20:00-03:00",
+      "end": "2026-11-22T12:50:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7449",
+        "7450",
+        "7451",
+        "7453"
+      ]
+    },
+    {
+      "id": "8952",
+      "title": "A estratégia do oceano azul - navegando em mercados competitivos",
+      "desc": "Como empresas rompem a lógica da concorrência e criam novos espaços de mercado. A partir do conceito de Oceano Azul, são apresentados exemplos de negócios que inovaram, transformaram mercados e criaram novas oportunidades ao oferecer valor de forma diferente, deixando de disputar clientes no mesmo espaço para criar mercados onde a concorrência praticamente deixa de ser o foco.",
+      "start": "2026-11-22T13:00:00-03:00",
+      "end": "2026-11-22T13:30:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7443"
+      ]
+    },
+    {
+      "id": "8926",
+      "title": "Construindo o Telescópio Saturn: da Montagem à Observação",
+      "desc": "Que tal construir seu próprio telescópio, com peças produzidas em impressora 3D, e descobrir como a ciência transforma lentes em instrumentos de exploração do universo? Nesta oficina prática, os participantes acompanharão o passo a passo da montagem do Telescópio Saturn, conduzidos pelo Prof. Dr. Gildário Lima e Hilton Elias. Uma experiência mão na massa que integra astronomia, óptica e tecnologia, aproximando os participantes da educação científica e mostrando, na prática, como transformar conhecimento em um instrumento de observação do universo.",
+      "start": "2026-11-22T13:00:00-03:00",
+      "end": "2026-11-22T14:50:00-03:00",
+      "room": "Arena TRON",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7372",
+        "7402"
+      ]
+    },
+    {
+      "id": "8985",
+      "title": "Da sala de aula ao mercado: como transformar conhecimento em empreendedorismo",
+      "desc": "A conversa propõe trazer os egressos do IFPI João Pedro e Romero Antônio, que saíram da sala de aula e fundaram sua própria startup, para compartilhar a trajetória real de quem transformou a experiência acadêmica em um negócio próprio. O objetivo é mostrar, de forma prática e inspiradora, como o conhecimento técnico e as vivências do instituto podem servir de base para o empreendedorismo e a inovação.",
+      "start": "2026-11-22T13:00:00-03:00",
+      "end": "2026-11-22T13:30:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7474",
+        "7475"
+      ]
+    },
+    {
+      "id": "8986",
+      "title": "Depois do Algoritmo: a IA tem peso, temperatura e custo",
+      "desc": "A inteligência artificial parece imaterial: fazemos uma pergunta e, segundos depois, recebemos uma resposta. Mas por trás de cada algoritmo existem chips, servidores, energia, materiais, água, sistemas de refrigeração e calor. Nesta palestra, o físico e pesquisador Edwar Montenegro parte das reflexões desenvolvidas no livro Depois do Algoritmo para discutir os limites físicos da inteligência artificial e da computação. A apresentação conecta termodinâmica da informação, consumo energético, cérebro humano, semicondutores e novas arquiteturas computacionais para mostrar que nenhum algoritmo existe fora do mundo físico. Mais do que perguntar até onde a IA pode chegar, a palestra propõe uma questão essencial para o futuro: se computar tem custo, o que realmente vale a pena computar? A proposta não é defender nem condenar a inteligência artificial, mas compreender seus limites e discutir como podemos construir tecnologias mais eficientes, sustentáveis e compatíveis com um mundo finito.",
+      "start": "2026-11-22T13:00:00-03:00",
+      "end": "2026-11-22T13:30:00-03:00",
+      "room": "Startup & Business",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7367"
+      ]
+    },
+    {
+      "id": "8891",
+      "title": "Educação em Tempo de IA: Aprendizagem Significativa e Inovação Aberta no Ensino Superior",
+      "desc": "Um workshop sobre como educadores podem inovar e se permanecer essenciais em tempos de IA. São apresentadas diversas estratégias do professor ir além das práticas de sala de aula convencionais, gerando mais crescimento e oportunidades para seus estudantes. Em especial serão abordadas metodologias ativas em inovação aberta que possibilitam novas formas de relacionamento universidade/sociedade. Programas educacionais que estimulam estudantes a desenvolverem softskills voltadas a resolução de problemas reais a partir de desafios de empresas e governos. Um dos programas abordados, o INOVA REPE, ganhou este ano o prêmio de melhor estudo de caso da AMPROTEC, uma das maiores conferências de inovação do país que reúne a maioria dos Parques Tecnológicos Nacionais.",
+      "start": "2026-11-22T13:00:00-03:00",
+      "end": "2026-11-22T14:50:00-03:00",
+      "room": "Workshop Supernova",
+      "category": "EDUCAÇÃO E POLÍTICAS PÚBLICAS",
+      "categories": [
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7362"
+      ]
+    },
+    {
+      "id": "8902",
+      "title": "Quando as IAs Discordam: Aprendendo Ciência por Meio do Debate",
+      "desc": "A curiosidade é o ponto de partida para o conhecimento científico, mas encontrar uma resposta nem sempre significa compreender um fenômeno. Nesta palestra, exploraremos como a inteligência artificial pode ser utilizada como uma ferramenta de aprendizagem em Astronomia, estimulando o questionamento, a investigação e o pensamento crítico. \nPor meio de exemplos de fenômenos astronômicos e de uma demonstração prática, mostraremos como promover debates entre diferentes inteligências artificiais, confrontando suas respostas, identificando possíveis inconsistências e buscando fundamentação científica. A proposta é transformar a IA em uma parceira de investigação, incentivando o público a ir além das respostas prontas e descobrir que, na ciência, tão importante quanto obter respostas é saber formular boas perguntas.",
+      "start": "2026-11-22T13:20:00-03:00",
+      "end": "2026-11-22T14:20:00-03:00",
+      "room": "What's Next",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7383"
+      ]
+    },
+    {
+      "id": "8896",
+      "title": "Arena de Pitches Ideathon - CPWPiauí3",
+      "desc": "É hora de apresentar ideias, compartilhar soluções e mostrar o resultado de muito trabalho! A Arena de Pitch do Ideathon da Campus Party Weekend Piauí 3 é o momento em que as equipes apresentam as soluções desenvolvidas durante o desafio. Em apresentações objetivas e dinâmicas, os participantes terão a oportunidade de expor suas ideias, demonstrar como suas propostas respondem aos desafios apresentados e destacar o potencial de suas soluções. Um espaço para compartilhar aprendizados, defender propostas e mostrar, na prática, como criatividade, colaboração e inovação podem transformar problemas em oportunidades. Agora é a hora de dar voz às ideias e mostrar até onde a inovação pode chegar!",
+      "start": "2026-11-22T13:40:00-03:00",
+      "end": "2026-11-22T17:50:00-03:00",
+      "room": "Arena Disrupção",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7363",
+        "7364"
+      ]
+    },
+    {
+      "id": "8987",
+      "title": "Como a Inteligência Artificial está transformando a pesquisa científica",
+      "desc": "Como a IA vem revolucionando a produção do conhecimento, desde a análise de grandes volumes de dados até a identificação de padrões, a realização de previsões e a aceleração de descobertas científicas. Com uma abordagem acessível e multidisciplinar, serão apresentados exemplos de aplicações da Inteligência Artificial em áreas como Química, Biologia, Saúde e Ciências Ambientais, demonstrando como algoritmos de aprendizado de máquina podem auxiliar pesquisadores na resolução de problemas complexos. A atividade também discutirá os desafios, as limitações e as questões éticas relacionadas ao uso da IA na ciência, destacando a importância do pensamento crítico e da colaboração entre pesquisadores e tecnologias inteligentes. O objetivo é mostrar que a Inteligência Artificial não substitui o conhecimento científico, mas amplia as possibilidades de investigação, inovação e descoberta, tornando a pesquisa mais eficiente e abrindo novos caminhos para o futuro da ciência.",
+      "start": "2026-11-22T13:40:00-03:00",
+      "end": "2026-11-22T14:10:00-03:00",
+      "room": "Startup & Business",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "CIÊNCIA E BIOTECNOLOGIA"
+      ],
+      "speakerIds": [
+        "7477"
+      ]
+    },
+    {
+      "id": "8953",
+      "title": "Esteira de produtos: como saber se o meu produto está adequado ao mercado?",
+      "desc": "Nesta palestra, Maria Katriane, Product Manager, aborda como identificar se um produto realmente atende às necessidades do mercado, explorando Product Discovery, proposta de valor, Product-Market Fit, MVP e validação com usuários. Uma reflexão sobre construir soluções que geram valor e resultados reais.",
+      "start": "2026-11-22T13:40:00-03:00",
+      "end": "2026-11-22T14:10:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7444"
+      ]
+    },
+    {
+      "id": "8937",
+      "title": "Transformando Problemas em Startups",
+      "desc": "A palestra abordará o Design Thinking como uma metodologia inovadora para identificar problemas, desenvolver soluções criativas e transformá-las em oportunidades de negócios. Serão apresentados os princípios e as etapas do Design Thinking, destacando a importância da empatia, da colaboração, da criatividade e da experimentação no desenvolvimento de ideias empreendedoras. Os participantes conhecerão estratégias para compreender as necessidades do mercado, estruturar propostas de valor e transformar desafios reais em soluções inovadoras com potencial para a criação de startups, contribuindo para o fortalecimento da cultura de inovação e do empreendedorismo.",
+      "start": "2026-11-22T13:40:00-03:00",
+      "end": "2026-11-22T14:10:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7420",
+        "7421"
+      ]
+    },
+    {
+      "id": "8913",
+      "title": "Do Céu à Sala de Aula: Como Implementar Astronomia e Diferenciar sua Escola",
+      "desc": "A astronomia pode ir além da curiosidade e se tornar um diferencial pedagógico, unindo ciência, tecnologia e investigação na rotina escolar. Ilana Almeida e Daniel Abreu mostram caminhos práticos para implantar a astronomia educacional e preparar alunos para os desafios do futuro.",
+      "start": "2026-11-22T14:00:00-03:00",
+      "end": "2026-11-22T14:50:00-03:00",
+      "room": "Arena TRON",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA",
+        "EDUCAÇÃO E POLÍTICAS PÚBLICAS"
+      ],
+      "speakerIds": [
+        "7388",
+        "7387"
+      ]
+    },
+    {
+      "id": "8954",
+      "title": "Além das Habilidades Técnicas: Pessoas, Carreira e Tecnologia",
+      "desc": "Uma conversa sobre os caminhos profissionais na tecnologia e a importância das soft skills para construir uma carreira sólida. Vamos explorar liderança, comunicação, colaboração, empreendedorismo e os desafios de um mercado em constante transformação.",
+      "start": "2026-11-22T14:20:00-03:00",
+      "end": "2026-11-22T14:50:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7445"
+      ]
+    },
+    {
+      "id": "8938",
+      "title": "Do Piauí para o Brasil: produtos e projetos de sucesso da ETIPI",
+      "desc": "Na palestra \"Do Piauí para o Brasil: produtos e projetos de sucesso da ETIPI\", apresento como a Empresa de Tecnologia da Informação do Estado do Piauí, uma sociedade de economia mista, atua como agente de inovação no ecossistema piauiense. Mostro os instrumentos que aproximam o Estado do mercado e das startups, como a Pré-Qualificação Permanente de Fábrica de Software e os PMIs (Procedimentos de Manifestação de Interesse), explicando como as empresas podem entrar nesse modelo.\nEm seguida, apresento cases de sucesso que nasceram desses instrumentos, como o app Piauí Turismo, e as parcerias que levaram soluções do Piauí a outros estados, entre elas Telessaúde, Siape, Credencia e Ensinus. A palestra termina com o Teleatendimento Rural, produto que já tem conversas em andamento com o governo federal e a SADA, e com um convite para que startups e desenvolvedores conheçam o caminho para construir soluções junto com a ETIPI.",
+      "start": "2026-11-22T14:20:00-03:00",
+      "end": "2026-11-22T14:50:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7422"
+      ]
+    },
+    {
+      "id": "9000",
+      "title": "Sebrae e o Ecossistema Empreendedor: Inovação que transforma negócios",
+      "desc": "Inovar não é exclusividade de startups, mostra como o ecossistema empreendedor pode apoiar negócios de todos os tamanhos a incorporar inovação no dia a dia, com ferramentas, programas e conexões que ajudam a transformar ideias em resultados e empresas tradicionais em negócios mais competitivos.",
+      "start": "2026-11-22T14:20:00-03:00",
+      "end": "2026-11-22T14:50:00-03:00",
+      "room": "Startup & Business",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7485"
+      ]
+    },
+    {
+      "id": "8989",
+      "title": "O Negócio por Trás da Criação de Conteúdo",
+      "desc": "Da ideia ao impacto: como a curiosidade se transformou em um dos maiores canais digitais do Brasil. Uma jornada pela evolução do consumo de mídia — do PC ao TikTok, até a era da TV conectada — mostrando que adaptar-se é a chave para sobreviver. Inovação e diversificação como motores de crescimento: do entretenimento à educação, passando por eSports e agência de conteúdo. O futuro das profissões e as novas oportunidades criadas pela tecnologia. Inteligência Artificial: de ameaça a parceira estratégica. Lições práticas e inspiradoras para preparar a nova geração para o que vem pela frente.",
+      "start": "2026-11-22T15:00:00-03:00",
+      "end": "2026-11-22T16:00:00-03:00",
+      "room": "What's Next",
+      "category": "ARTE E CULTURA GEEK",
+      "categories": [
+        "ARTE E CULTURA GEEK"
+      ],
+      "speakerIds": [
+        "7358"
+      ]
+    },
+    {
+      "id": "8914",
+      "title": "Como aprender astronomia e tecnologia mudou nosso jeito de ver o mundo",
+      "desc": "Cinco estudantes de Engenharia da Computação com IA do UNI CET contam como a astronomia, a tecnologia e a iniciação científica mudaram sua forma de enxergar o mundo e o próprio futuro. Uma conversa aberta sobre descobertas, desafios e o poder da curiosidade.",
+      "start": "2026-11-22T16:00:00-03:00",
+      "end": "2026-11-22T17:50:00-03:00",
+      "room": "Arena TRON",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7373",
+        "7374",
+        "7375",
+        "7376",
+        "7378"
+      ]
+    },
+    {
+      "id": "8908",
+      "title": "Desenhando as órbitas dos planetas",
+      "desc": "Como são as órbitas dos planetas ao redor do Sol? Embora saibamos que elas têm formato elíptico, muitas vezes sua representação nos livros didáticos não corresponde às suas características reais. Nesta oficina prática, realizada pela OBA (Olimpíada Brasileira de Astronomia e Astronáutica), os participantes vão aprender, na prática, como funcionam as órbitas planetárias e por que o Sol ocupa um dos focos da elipse, e não seu centro. Com a metodologia do “método do jardineiro”, os professores colocaram a mão na massa para construir e desenhar elipses utilizando materiais simples, como papel, lápis, régua, barbante e papelão, disponibilizados pela organização. Uma experiência interativa que une astronomia, experimentação e aprendizagem.",
+      "start": "2026-11-22T16:00:00-03:00",
+      "end": "2026-11-22T17:50:00-03:00",
+      "room": "Workshop Supernova",
+      "category": "ASTRONOMIA",
+      "categories": [
+        "ASTRONOMIA"
+      ],
+      "speakerIds": [
+        "7383"
+      ]
+    },
+    {
+      "id": "8945",
+      "title": "Meet and Greet - Daniel Molo",
+      "desc": "Olá pessoal! Você é fã do Dani Molo? Não perca essa chance única de encontrar seu ídolo de pertinho e tirar uma foto incrível! Este momento será logo após a palestra ao lado do palco What's Next, o nosso convidado estará recebendo você campuseiro(a). Será organizado com fila e senha para atendimento. Pedimos que não seja gravado videos, somente foto ;)",
+      "start": "2026-11-22T16:00:00-03:00",
+      "end": "2026-11-22T16:30:00-03:00",
+      "room": "What's Next",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7358"
+      ]
+    },
+    {
+      "id": "8955",
+      "title": "IA no Comando? Quem Decide é Você!",
+      "desc": "A Inteligência Artificial pode escrever código, mas quem deve tomar as decisões? Nesta palestra, vamos explorar como utilizar a IA como ferramenta, sem depender cegamente de suas respostas, e como escolher a linguagem de programação ideal para cada projeto, considerando custos, infraestrutura, manutenção e conhecimento da equipe. Tudo isso com exemplos práticos e uma abordagem acessível para iniciantes e profissionais de tecnologia.",
+      "start": "2026-11-22T16:10:00-03:00",
+      "end": "2026-11-22T16:40:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL"
+      ],
+      "speakerIds": [
+        "7381"
+      ]
+    },
+    {
+      "id": "8978",
+      "title": "Os desafios de aplicativos na era Instagram",
+      "desc": "Como fazer com que os clientes deixem as correntes das redes sociais e pensem como empreendedores no mundo de aplicativos próprios, com mais segurança e foco. Os clientes não querem mais criar app por conta da comodidade do Instagram: estão criando soluções para vender, captar e prospectar clientes sem sair da plataforma. Quando se fala em criar um app, os clientes resistem, porque o Instagram já oferece todos esses serviços de graça.",
+      "start": "2026-11-22T16:10:00-03:00",
+      "end": "2026-11-22T16:40:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7466"
+      ]
+    },
+    {
+      "id": "8920",
+      "title": "Proteger em rede: o papel do poder público na aplicação do ECA Digital",
+      "desc": "Em vigor desde março de 2026, o ECA Digital (Lei 15.211/2025) estabelece novas regras para proteger crianças e adolescentes no ambiente digital, como verificação de idade, supervisão parental, restrição de publicidade direcionada e responsabilização das plataformas. Mas como essa lei chega à vida real das famílias? Neste bate-papo, representantes da assistência social do município de Teresina e do Governo do Estado do Piauí discutem os desafios de aplicar o ECA Digital no território: o papel da rede de proteção na prevenção de riscos online, no acolhimento de casos de violação de direitos e na promoção de uma cultura de uso seguro e consciente da tecnologia.",
+      "start": "2026-11-22T16:10:00-03:00",
+      "end": "2026-11-22T16:40:00-03:00",
+      "room": "Startup & Business",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "TECNOLOGIA QUÂNTICA E CIBERSEGURANÇA"
+      ],
+      "speakerIds": [
+        "7396"
+      ]
+    },
+    {
+      "id": "8885",
+      "title": "Divulgação Científica",
+      "desc": "A palestra propõe uma reflexão sobre a importância da divulgação, temas científicos atuais e suas relações com o cotidiano, a tecnologia, o meio ambiente, com uma linguagem acessível que busca aproximar o conhecimento científico do público. Abordando temas atuais como fake news e os desafios da criação de um conteúdo relevante em uma época em que os conteúdos fraudulentos são comuns nas plataformas digitais.",
+      "start": "2026-11-22T16:30:00-03:00",
+      "end": "2026-11-22T17:30:00-03:00",
+      "room": "What's Next",
+      "category": "CIÊNCIA E BIOTECNOLOGIA",
+      "categories": [
+        "CIÊNCIA E BIOTECNOLOGIA"
+      ],
+      "speakerIds": [
+        "7354"
+      ]
+    },
+    {
+      "id": "8888",
+      "title": "Design Thinking is a Bullshit.",
+      "desc": "Em um cenário em que a inovação exige novas formas de pensar e empreender, será que as metodologias tradicionais ainda são suficientes? A partir de uma provocação sobre o Design Thinking, Luiz Salomão Ribas Gomez apresenta metodologias contemporâneas de empreendedorismo e inovação, explorando novos modelos que desafiam e substituem abordagens que, por muito tempo, orientaram o desenvolvimento de ideias, produtos e negócios. A atividade propõe uma reflexão sobre a evolução dessas metodologias, seus limites e as possibilidades de construir soluções mais alinhadas aos desafios e às transformações do mundo atual.",
+      "start": "2026-11-22T16:50:00-03:00",
+      "end": "2026-11-22T17:50:00-03:00",
+      "room": "Startup & Business",
+      "category": "EMPREENDEDORISMO E STARTUPS",
+      "categories": [
+        "EMPREENDEDORISMO E STARTUPS"
+      ],
+      "speakerIds": [
+        "7360"
+      ]
+    },
+    {
+      "id": "8956",
+      "title": "Liderar para Conectar: O Poder das Comunidades",
+      "desc": "As comunidades de tecnologia são espaços de conexão, aprendizado, colaboração e transformação. Mais do que reunir pessoas com interesses em comum, elas criam oportunidades, fortalecem talentos, aproximam profissionais e ajudam a construir um ecossistema tecnológico mais diverso e colaborativo.\nNeste painel de discussão, vamos reunir lideranças de diferentes comunidades do Piauí para compartilhar experiências, desafios e aprendizados sobre o papel de quem movimenta essas iniciativas. A conversa abordará a importância do engajamento, da inclusão, do voluntariado, da construção coletiva e das conexões que fazem uma comunidade crescer e gerar oportunidades.\nUma conversa sobre pessoas que transformam interesses em iniciativas, iniciativas em comunidades e comunidades em oportunidades.",
+      "start": "2026-11-22T16:50:00-03:00",
+      "end": "2026-11-22T17:50:00-03:00",
+      "room": "Palco de Comunidade - Delta Dev",
+      "category": "PROGRAMAÇÃO E HACKING",
+      "categories": [
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7444",
+        "7437",
+        "7446",
+        "7447",
+        "7404"
+      ]
+    },
+    {
+      "id": "8947",
+      "title": "Radar Global da Saúde: Onde o Mundo Pesquisa, Investe e Inova",
+      "desc": "A palestra apresentará as principais tendências mundiais em pesquisa, tecnologia e inovação na área da saúde, destacando as áreas científicas mais promissoras, os investimentos estratégicos da indústria e as oportunidades para universidades, pesquisadores e empresas. Com base em dados e relatórios de instituições internacionais, como IQVIA, FDA, EMA e Organização Mundial da Saúde (OMS), serão explorados os avanços em biotecnologia, inteligência artificial, medicina de precisão e terapias inovadoras, além das perspectivas de mercado e dos setores que mais atraem investimentos. A apresentação abordará como transformar tendências científicas e demandas globais em oportunidades de pesquisa, captação de recursos, parcerias estratégicas e desenvolvimento de novas tecnologias.",
+      "start": "2026-11-22T16:50:00-03:00",
+      "end": "2026-11-22T17:50:00-03:00",
+      "room": "Palco de Comunidade - Capivara Lab",
+      "category": "CIÊNCIA E BIOTECNOLOGIA",
+      "categories": [
+        "CIÊNCIA E BIOTECNOLOGIA"
+      ],
+      "speakerIds": [
+        "7423",
+        "7424",
+        "7436"
+      ]
+    },
+    {
+      "id": "8886",
+      "title": "O Elo Perdido entre a Análise Clássica e o Vibe Coding Sensato",
+      "desc": "O vibe coding virou sinônimo de programar na base da tentativa e erro, mas agentes de IA não precisam de palpites - precisam de contexto estruturado, fluxos bem definidos e limites claros de domínio. Isso é o que separa um código caótico de um software real. Nesta palestra, Gustavo Guanabara mostra por que técnicas clássicas de análise de sistemas dos anos 70 são, ironicamente, a peça que faltava para ajudar no desenvolvimento agêntico moderno. Para provar que método supera a sorte, uma aplicação completa será construída no palco: sem achismos, sem alucinações e sem rezar para o prompt funcionar.",
+      "start": "2026-11-22T18:00:00-03:00",
+      "end": "2026-11-22T19:00:00-03:00",
+      "room": "What's Next",
+      "category": "INTELIGÊNCIA ARTIFICIAL",
+      "categories": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "PROGRAMAÇÃO E HACKING"
+      ],
+      "speakerIds": [
+        "7355"
+      ]
+    },
+    {
+      "id": "8946",
+      "title": "Meet and Greet - Gustavo Guanabara ",
+      "desc": "Olá pessoal! Você é fã do Gustavo Guanabara? Não perca essa chance única de encontrar seu ídolo de pertinho e tirar uma foto incrível! Este momento será logo após a palestra ao lado do palco What's Next, o nosso convidado estará recebendo você campuseiro(a). Será organizado com fila e senha para atendimento. Pedimos que não seja gravado videos, somente foto ;)",
+      "start": "2026-11-22T19:00:00-03:00",
+      "end": "2026-11-22T19:30:00-03:00",
+      "room": "What's Next",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7355"
+      ]
+    },
+    {
+      "id": "8898",
+      "title": "Cerimônia de encerramento #CPWPiauí3",
+      "desc": "A cerimônia de encerramento celebra o fim de mais uma edição inesquecível da Campus Party Weekend Piauí. Venha relembrar os melhores momentos da #CPWPiauí3, prestigiar as premiações, reconhecer os destaques do evento e se despedir dessa jornada repleta de inovação, aprendizado e conexões. Um momento especial para encerrar com chave de ouro tudo o que vivemos juntos nesta edição!",
+      "start": "2026-11-22T19:30:00-03:00",
+      "end": "2026-11-22T20:30:00-03:00",
+      "room": "What's Next",
+      "category": "",
+      "categories": [],
+      "speakerIds": [
+        "7356"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "id": "7469",
+      "name": "Aderson Mesquita",
+      "bio": "Desenvolvedor Full-Stack e de P&D com foco em inovação e inteligência artificial. Atualmente atua na equipe de Pesquisa, Desenvolvimento e Inovação do Grupo Ora (Ora Telecom) e no desenvolvimento de sistemas na SEJUS PI. Estudante de Engenharia de Software no iCEV, tem experiência prática com aplicações web, mobile, Python, ambientes Linux (Ubuntu) e visão computacional, além de certificações AWS em Machine Learning e NLP.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/abc9f4d70e4bfe0e1cf26ec20bffd80aa84d040b.jpg",
+      "role": "Engenheiro de Software"
+    },
+    {
+      "id": "7487",
+      "name": "Adriana Lélis",
+      "bio": "Membro do Comitê Gestor do Pacto pelas Crianças do Piauí. É Doutora em Linguística pela Universidade Federal de Pernambuco e Mestra em Ciências da Informação pela Universidade Federal de Minas Gerais. Graduada em Letras/Português pela Universidade Estadual do Piauí e em Comunicação Social, com habilitação em Jornalismo, pela Universidade Federal do Piauí. Foi Professora Titular do Instituto Federal do Piauí, onde atuou nos cursos de licenciatura e tecnologia.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/0dae306191c8c11a12aec9d0619bc9382b5cf396.jpeg",
+      "role": "Membro do Comitê Gestor do Pacto pelas Crianças do Piauí"
+    },
+    {
+      "id": "7383",
+      "name": "Alberto Alves de Mesquita ",
+      "bio": "Graduado em Física pela Universidade Federal do Piauí (UFPI) e mestre em Astronomia pelo Observatório do Valongo da Universidade Federal do Rio de Janeiro (UFRJ), com experiência em Astrofísica Extragaláctica. Atuou como pesquisador bolsista no Museu de Astronomia e Ciências Afins (MAST), desenvolvendo trabalhos relacionados à identificação e descrição de asterismos da comunidade indígena Guarani Mbyá. Participou da reforma e reinauguração do Observatório Luiz Cruls, na Fazenda Águas Claras, pela Universidade de Brasília (UnB).",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/7f532daa97f9bff0ed9f15d3007215e910b127f8.png",
+      "role": "Astrofísico"
+    },
+    {
+      "id": "7434",
+      "name": "Alice Santos Lucena",
+      "bio": "Estudante do 7º ano do Instituto Dom Barreto, jovem pesquisadora e embaixadora de projetos de educação e tecnologia. Apaixonada por Astronomia, Robótica e Programação, acumula mais de 140 medalhas em olimpíadas nacionais e internacionais. Já identificou mais de 40 asteroides, foi campeã da Jornada Nacional de Foguetes 2026 e conquistou resultados de destaque em competições de Matemática, Computação e Robótica. Desenvolveu projetos de inovação ambiental e impacto social, como o satélite CanSat Niède, voltado ao monitoramento da Serra da Capivara. Também se dedica à literatura, às artes e ao teatro.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/551f4e042ea242f89a52dea1939783f8c2cbf76c.png",
+      "role": "Pesquisadora"
+    },
+    {
+      "id": "7424",
+      "name": "Amanda Letícia Pereira Medeiros",
+      "bio": "Discente em Gestão de Dados (UFPI). Atua na interseção entre tecnologia e gestão pública, pesquisa em Machine Learning e Processamento de Linguagem Natural. Interesse em análise/modelagem de dados complexos e tecnologias emergentes.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/b20fa5f071add08892589b6e1976128d07f7fbad.jpg",
+      "role": "Agente Acadêmico de Inovação (GAAI)"
+    },
+    {
+      "id": "7369",
+      "name": "Amanda Resende",
+      "bio": "Psicopedagoga e coordenadora pedagógica, com formação em Direito e atuação em pedagogia empresarial. É fundadora do reforço escolar Método Lúdico, onde trabalha com práticas pedagógicas e acompanhamento da aprendizagem.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/ea3a93c96ef49d63ff4050bdfe5049defea3fd3f.png",
+      "role": "Psicopedagoga e coordenadora pedagógica"
+    },
+    {
+      "id": "7460",
+      "name": "Amélia Lima Silva Gomes",
+      "bio": "Amélia é uma estudante do Instituto Dom Barreto em Teresina, Piauí. Entusiasta da Ciência, é apaixonada por Matemática, Xadrez, História, Inglês, Artes, Astronomia e Astronáutica, além de ser encantada por foguetes e amar tocar piano! Multimedalhista em diversas áreas do conhecimento.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/64c5f3a7eb40a74a4ad14657158c21ef6e4bc4a8.png",
+      "role": "Estudante"
+    },
+    {
+      "id": "7368",
+      "name": "Ana Amábile",
+      "bio": "Psicóloga e mestra em Psicologia pela UFPI. É cofundadora do Método TRON e presidente do Instituto Expande de Educação Criativa. Sua atuação reúne aprendizagem, desenvolvimento humano e educação tecnológica.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/b71b0bb9882039e9868ba21056c25a6353a74d79.png",
+      "role": "Psicóloga e mestra em Psicologia"
+    },
+    {
+      "id": "7426",
+      "name": "André Macedo",
+      "bio": "André Macedo Santana é Secretário de Inteligência Artificial, Economia Digital, Ciência, Tecnologia e Inovação do Piauí. Foi Superintendente de Transformação Digital da Secretaria de Planejamento. Formado em Ciência da Computação pela UFPI, é mestre em Engenharia Elétrica e doutor em Engenharia da Computação pela UFRN. Professor Associado do Departamento de Computação da UFPI, coordena o Laboratório RAPOOZA e atua em inteligência computacional aplicada à saúde, processamento de imagens médicas, robótica móvel e visão computacional.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/a9f7229394d6ac0fca2e325d499240bda4a65d1c.jpg",
+      "role": "Secretário de Inteligência Artificial do Piauí"
+    },
+    {
+      "id": "7485",
+      "name": "Andreia de Araujo Fortes Cavalcante",
+      "bio": "Engenheira Mecânica pelo IFPI, com graduação-sanduíche pela Universidade de Debrecen, na Hungria, e mestranda em Engenharia de Materiais. Atua como gestora de Deeptechs e Ambientes de Inovação no SEBRAE/PI. Possui experiência em inovação, desenvolvimento de startups, aceleração de negócios, modelagem 3D, mecânica da fratura e Método dos Elementos Finitos. Trabalha na estruturação de ambientes de inovação, transformação de pesquisas científicas em negócios e desenvolvimento de soluções de impacto socioambiental e bioeconomia. Também lidera missões técnicas e articulações internacionais, conectando ecossistemas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/09a7b329c4b9000fe2b9ac692663406e5bd9aa6b.jpeg",
+      "role": "Gestora de startups SEBRAE"
+    },
+    {
+      "id": "7463",
+      "name": "Arena Free Play",
+      "bio": "",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/f75cd14f4060efbc5cd7e04737e0d41abcac9976.png",
+      "role": ""
+    },
+    {
+      "id": "7365",
+      "name": "Atila Iamarino",
+      "bio": "Atila Iamarino é biólogo e Dr. em Microbiologia pela USP e foi pesquisador na USP e na Yale University. Foi co-criador do ScienceBlogs Brasil e do Nerdologia. Hoje é comunicador científico no seu canal no Youtube com mais de 1,6 milhão de inscritos. Também é consultor e produtor de material didático digital e educação na internet. Ganhou notoriedade pela comunicação sobre a pandemia da COVID-19 no Brasil nas redes sociais e o combate as fakes news.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/b0782541a1ea326a9daddb5e82c9563ea52371d3.JPG",
+      "role": "Comunicador Científico e Criador do Nerdologia"
+    },
+    {
+      "id": "7405",
+      "name": "Augusto Alves Silva",
+      "bio": "Augusto Silva é engenheiro de software sênior no Mercado Pago, engenheiro mecânico pela UFPI e pós-graduado em Arquitetura de Software pela FIAP. Atua com sistemas distribuídos, formação de desenvolvedores e se interessa por como a IA transforma a programação.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/4dcea5e4866e01a94162b7b88936a95e8fc0a580.jpg",
+      "role": "Engenheiro de Software Sênior"
+    },
+    {
+      "id": "7459",
+      "name": "Bella Fonteles Matias",
+      "bio": "Bella é uma jovem de 13 anos, estudante do 7º ano do Instituto Dom Barreto e apaixonada pelo conhecimento. Multimedalhista em olimpíadas acadêmicas, destaca-se nas áreas de Línguas, Ciências, Exatas, Xadrez, Geopolítica e História, Astronomia, Astronáutica e lançamento de foguetes, sua grande paixão.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/0cd6c6bb99f1de19ff40e3807fd424d187941ae9.png",
+      "role": "Estudante"
+    },
+    {
+      "id": "7441",
+      "name": "Bia Thereza",
+      "bio": "Mestranda em Biotecnologia pela Universidade Federal do Delta do Parnaíba (UFDPar), técnica em Informática e pós-graduada em Ciência de Dados e Inteligência Artificial. Desenvolve pesquisas na área de Inteligência Artificial aplicada à saúde. É Embaixadora Estudantil Google 2026 e participa de iniciativas voltadas à educação, inovação e compartilhamento de conhecimento.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/f326bbbe1b50ced81993bd66514eb8ef2d4b9217.jpg",
+      "role": "Mestranda"
+    },
+    {
+      "id": "7437",
+      "name": "Bruno Oliveira",
+      "bio": "Bruno Oliveira é Desenvolvedor Full-Stack com mais de 4 anos de experiência em aplicações web escaláveis para clientes nacionais e internacionais. Especialista em Laravel, também atua com Vue.js, NestJS e Next.js, com foco em performance e arquitetura limpa. Trabalha em uma consultoria brasileira com microsserviços, mensageria e IA aplicada ao desenvolvimento. Acredita que tecnologia se fortalece quando conhecimento vira comunidade e é representante da PHP Piauí (PHPPI), conectando pessoas e fortalecendo o ecossistema PHP.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/dd15cc5a9eb85b308a4726a7a66726341ad29b1b.jpg",
+      "role": "Desenvolvedor de software"
+    },
+    {
+      "id": "7464",
+      "name": "Campus Mission",
+      "bio": "",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/a3244a3fc4adc94903bfa2cd4ee02cb108cadca0.png",
+      "role": ""
+    },
+    {
+      "id": "7356",
+      "name": "Campus Party Brasil",
+      "bio": "",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/c66577747b843dfccdccfd687f2e0fea22f9c442.png",
+      "role": ""
+    },
+    {
+      "id": "7442",
+      "name": "Carlos Eugênio Mendes Paes Landim",
+      "bio": "Desenvolvedor de Software focado em criar soluções digitais, automatizar processos e ajudar empresas a utilizar a tecnologia para melhorar seus resultados.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/d9aadf26f294c617cbae0b31838044f6ba8f4d75.jpg",
+      "role": "Desenvolvedor de Software Autônomo"
+    },
+    {
+      "id": "7436",
+      "name": "Carlos Heitor Teles Ribeiro Miranda",
+      "bio": "Estudante de Administração da UFPI (Campus Floriano), atuando no movimento de Empresas Juniores e integrando o GAAI como bolsista de inovação. Possui experiência em gestão, marketing, desenvolvimento organizacional e auditoria interna. Interessa-se por gestão da inovação, empreendedorismo, tecnologia e novos negócios. Sua trajetória é marcada pelo protagonismo estudantil e pela busca por soluções inovadoras que gerem impacto positivo nas organizações e na sociedade.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/6ca1483e7a5dbc039aabc50d6ac5d6eecd18a7e1.jpg",
+      "role": "Agente Acadêmico de Inovação (GAAI)"
+    },
+    {
+      "id": "7484",
+      "name": "Carolina Guimarães Barbosa",
+      "bio": "Mestranda em Inovação e Propriedade Intelectual (IFPI), Líder InovAtiva Piauí (2024) Coordenadora de Ecossistema de Inovação na secretaria de Inteligência Artificial, Economia Digital, Ciência, Tecnologia e Inovação- SIA e Consultora Empresarial nas áreas: Inovação, Empreendedorismo e Liderança pelo Sebrae-PI.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/0c2bdb67730595691e269d4291a592b105357f1a.jpeg",
+      "role": "Consultora de Inovação, Coordenadora de Ecossistema de Inovação- SIA"
+    },
+    {
+      "id": "7366",
+      "name": "Catarina Silva Lopes",
+      "bio": "Catarina tem 14 anos, cursa o 8o ano e mora em Teresina (PI). É medalhista da Olimpíada Canguru de Matemática e embaixadora do Projeto Saturn, pelo qual participa de ações de divulgação científica. Seus interesses incluem literatura, matemática e astronomia.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/5a8df0f0238a737a9147bb2e3428162db6c88304.png",
+      "role": "Estudante"
+    },
+    {
+      "id": "7414",
+      "name": "Charleno Queiroz Pires",
+      "bio": "Charleno Pires é professor, mestre em Tecnologias Emergentes para Educação e desenvolvedor especializado em IA, LLMs, agentes inteligentes e modernos sistemas distribuídos. Domina Python, Rust, TypeScript e Elixir, focando em arquiteturas inteligentes, GraphRAG e integração via Model Context Protocol (MCP). É criador do projeto open source MCP Servers, que reúne 19 servidores voltados à automação, análise de código e integração com IAs como Claude e Gemini. Sua trajetória une pesquisa acadêmica, ensino e inovação no desenvolvimento de tecnologias que expandem as capacidades dos agentes inteligentes.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/a79e083c326685dd5821cb510368d8ebbaacf21a.jpg",
+      "role": "Professor"
+    },
+    {
+      "id": "7478",
+      "name": "Clayton Dick",
+      "bio": "Diretor-geral da Campus Party no Brasil, Clayton é engenheiro pela POLI-USP e MBA em Marketing pela FIA Business School. Foi professor pré-vestibular no início de sua carreira e, posteriormente, construiu uma sólida trajetória em diferentes áreas corporativas, como marketing, finanças, planejamento de negócios, logística e experiência do cliente, antes de se tornar empreendedor, em 2014. Foi fundador e diretor-geral da Redação Nota 1000, startup brasileira pioneira no uso de inteligência artificial para o desenvolvimento da escrita, que atende mais de 1 milhão de alunos por ano e hoje integra um dos principais conglomerados de educação do país.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/f3fd8a88d24a91e73411a4beb5ac763d90257e6f.jpeg",
+      "role": "Diretor Geral da Campus Party no Brasil"
+    },
+    {
+      "id": "7477",
+      "name": "Cristina Vidal",
+      "bio": "É mestre em Química pela UESPI, bacharel em Química com Atribuições Tecnológicas pela Universidade Federal do Piauí (UFPI), especialista em Design de Produtos Digitais (UX/UI) e graduanda em Inteligência Artificial. Suas principais áreas de atuação e interesse incluem Inteligência Artificial, Machine Learning, Ciência de Dados, Big Data, MLOps, Python, Pesquisa Científica e Design de Produtos Digitais (UX/UI). Possui experiência em pesquisa científica, startups e projetos tecnológicos, integrando ciência, tecnologia e design no desenvolvimento de soluções inteligentes e aplicações da IA à pesquisa e à inovação.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/29171f41b2436974ed3c35565e248be4fbea24d2.jpeg",
+      "role": "Estudante/Pesquisador"
+    },
+    {
+      "id": "7353",
+      "name": "Dani Monteiro",
+      "bio": "Dani Monteiro é engenheira de dados, professora e pesquisadora que conecta código, inteligência artificial e situações da vida real. Com mais de 20 anos de atuação em tecnologia, é doutoranda na Escola Politécnica da USP, Google Developer Expert, instrutora do LinkedIn Learning e integrante do programa OpenAI Creators. Fundadora da IA Preta, atua para ampliar a participação de pessoas negras na tecnologia. Em suas aulas e palestras, ajuda pessoas a criar com IA, questionar suas decisões e entender o que acontece quando essas ferramentas ganham poder para agir.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/50ac19bd8bc701cad4ff23560fe74a51cc95c1fd.png",
+      "role": "Engenheira de dados, professora e pesquisadora"
+    },
+    {
+      "id": "7358",
+      "name": "Daniel Molo",
+      "bio": "Criadores do canal Você Sabia?, um dos maiores do YouTube Brasil, com conteúdo de curiosidades, ciência, história e mistérios. Reconhecidos por seu estilo leve, já colaboraram com marcas e participaram de programas de TV.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/f6aff2ca68274e7f7fbe274c0615b7ff8391db8e.jpeg",
+      "role": "Co-fundador e apresentador do canal "
+    },
+    {
+      "id": "7470",
+      "name": "Davi Yuri Maia Nogueira",
+      "bio": "",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/9681f5a02ee9f2276443e816b52a29b8f670c33b.png",
+      "role": "Coordenador de inovação"
+    },
+    {
+      "id": "7454",
+      "name": "Débora Lena Silva Moura",
+      "bio": "Aluna do Técnico em Administração (IFPI) Cursando Engenharia Mecânica (UFPI) Medalhas nas Olimpiadas de Língua Portuguesa, OBA/Mobfog",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/4f00de8577e00ec6f302f69163840abacd94063d.png",
+      "role": "Estudante"
+    },
+    {
+      "id": "7375",
+      "name": "Diêgo Rânio Rocha Guedes",
+      "bio": "Estudante de Engenharia da Computação com IA no UNI CET. Desenvolve\r\natividades de iniciação científica ligadas à computação aplicada e à\r\nexperimentação tecnológica.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/b1effb7c278259618d872573317bd48db1420fcd.png",
+      "role": "Estudante de Engenharia da Computação com IA no UNI CET"
+    },
+    {
+      "id": "7392",
+      "name": "Dra. Kelly Gonçalves ",
+      "bio": "Dra. Kelly Gonçalves é empresária, mentora e palestrante, com quase 30 anos de carreira empreendedora. CEO da Zemp, é economista e doutora em Engenharia de Produção. Presidente do Instituto Fomentar e diretora de Relações Públicas do Sindlojas, criou a Mentoria Riqueza Feminina e captou mais de R$ 2 milhões em projetos de empreendedorismo e economia criativa em 2026. Autora de livros sobre empreendedorismo feminino, foi homenageada pela Câmara de Teresina e pela Assembleia Legislativa do Piauí.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/10a595894ea54409ffe1518c0722f14b6615d340.JPG",
+      "role": "Empreendedora da ZEMP"
+    },
+    {
+      "id": "7391",
+      "name": "Duana Cunha",
+      "bio": "Sócia e cofundadora da TRON Robótica Educativa, uma startup de tecnologia nascida no Piauí que ganhou grande repercussão nacional por sua proposta pedagógica e por ter o humorista Whindersson Nunes como investidor e embaixador.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/4429ec20ce916bba4d781f19a6e32d689423ead8.jpg",
+      "role": "Sócia e cofundadora da TRON Robótica Educativa"
+    },
+    {
+      "id": "7361",
+      "name": "Eduardo Iha",
+      "bio": "Eduardo Iha é sócio do Future Hacker, onde explora futuros possíveis e as transformações que conectam tecnologia, negócios e sociedade. Com experiência no Brasil e na Europa, atua com inovação, desenvolvimento de novos negócios e capacitação de lideranças. Como host e entrevistador do Future Hacker, conversa com especialistas de diferentes áreas sobre tendências e caminhos para o futuro. É engenheiro pela Poli-USP, com formação executiva pela FGV e Stanford.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/13506295df3abb248e69ba744995b3647de0dbdb.jpg",
+      "role": "Sócio Future Hacker"
+    },
+    {
+      "id": "7367",
+      "name": "Edwar Montenegro",
+      "bio": "Físico, matemático e doutor em Engenharia de Materiais. Atua como professor, pesquisador e divulgador científico, com experiência em ciência dos materiais, IA, nanotecnologia, termodinâmica da informação e educação científica. Já participou de palestras na Campus Party e em evento TEDx. Desenvolve projetos de pesquisa e inovação, além de orientar estudantes em iniciativas científicas e tecnológicas. É autor do livro Depois do Algoritmo: Informação, energia e os limites físicos do progresso, que aborda as relações entre inteligência artificial, energia, matéria e os limites físicos do avanço tecnológico.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/28c14c3bf09434e67ac0530fdd5df48231aae98b.png",
+      "role": "Físico, matemático e doutor em Ciência e Engenharia de Materiais pela UFPI"
+    },
+    {
+      "id": "7416",
+      "name": "Elayne da Silva Figueredo",
+      "bio": "Professora da UFPI e atua na gestão da inovação tecnológica, propriedade intelectual e transferência de tecnologia. Desenvolve iniciativas de pesquisa, ensino e extensão voltadas à inovação, ao empreendedorismo e ao desenvolvimento sustentável, conectando conhecimento científico, tecnologia e demandas da sociedade.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/27afc8460bb847ab7cdcc96d50513737dce082a7.jpg",
+      "role": "Professora Universitária"
+    },
+    {
+      "id": "7428",
+      "name": "Ellen Gera",
+      "bio": "Ellen Gera de Brito Moura. Bacharel em Ciência da Computação, especialista em Tecnologias para Web e Mestre em Inteligência Artificial pela Universidade Federal do Piauí. É servidor público, Analista de Sistemas Sênior no Governo do Estado. Professor universitário por 10 anos, foi Secretário de Educação e atualmente Vice-presidente da Associação Brasileira das Entidades Públicas de Tecnologia da informação e Presidente da ETIPI, Empresa de Tecnologia do Piauí.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/141c21d9529f67b2c0d39d8b2225ef524af4daa6.jpg",
+      "role": "Diretor Presidente da ETIPI"
+    },
+    {
+      "id": "7445",
+      "name": "Fernando José de Sousa Melo",
+      "bio": "Fernando Melo é empreendedor e Product Owner, cofundador do DOMUS, uma plataforma SaaS voltada à gestão imobiliária e à construção civil. Possui experiência nas áreas de suporte, implantação de sistemas, experiência do cliente e liderança de equipes. Ao longo de sua trajetória, desenvolveu uma visão que conecta pessoas, tecnologia e negócios. Atualmente, dedica-se ao desenvolvimento de produtos digitais e ao empreendedorismo, buscando transformar problemas reais em soluções tecnológicas que gerem valor para empresas e pessoas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/3ab24d142b51bb6a9809dd7c6724f3bcc824a0e0.jpg",
+      "role": "Cofundador e Product Owner"
+    },
+    {
+      "id": "7447",
+      "name": "Fernando Lucas Massan",
+      "bio": "Fernando Lucas “Massan” é engenheiro de software, desenvolvedor de jogos e presidente do PiauIndie, comunidade de desenvolvedores de jogos independentes do Piauí. Especialista em Desenvolvimento de Jogos Digitais e em Inteligência Artificial, é fundador do Dois Palitos Studio, ensina programação desde 2017 e acredita que comunidades são o caminho para fortalecer a cena tech local.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/2d0f39061a8ff27f1d6473d2885763e5b88e91d8.jpg",
+      "role": "Engenheiro de Software"
+    },
+    {
+      "id": "7450",
+      "name": "Franciele Joelma da Silva",
+      "bio": "Franciele Joelma da Silva é administradora pela UESPI, especialista em Neurociência para Líderes e consultora independente em gestão de pessoas, estratégia e inovação. É pesquisadora e mentora na Startup Piauí e presidente do Ecossistema de Inovação Vale do Mel, atuando no fortalecimento do empreendedorismo e da inovação regional.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/fc589cc807c8545c79091eadec76b26779eb7ca3.jpg",
+      "role": "Presidente do Ecossistema de Inovação Vale do Mel"
+    },
+    {
+      "id": "7419",
+      "name": "Francisco de Tarso Ribeiro Caselli",
+      "bio": "Engenheiro de Produção Mecânica pela Universidade Regional do Cariri (2003), mestre em Engenharia de Produção pela UFPB (2013) e doutor em Desenvolvimento e Meio Ambiente pela UFPI (2019). É professor da UFPI, coordenador e professor permanente do Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (Ponto Focal UFPI) e Gerente Técnico da Ineagro UFPI. Atua principalmente nos temas sustentabilidade, babaçu, qualidade, gestão e meio ambiente.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/cd1477657bd1aaf68b7b86f609653693658d7e9d.jpg",
+      "role": "Professor universitário e coordenador"
+    },
+    {
+      "id": "7363",
+      "name": "Gabriel Chamie",
+      "bio": "Gabriel Chamie, Desde de 2013 atuando na descoberta de novas tecnologias para integrar inovação, empreendedorismo e negócios. Foco em entender processos diferenciados entre pessoas, projetos e negócios. Incentivo a utilização de inovação aberta como oxigenador da transformação digital.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/c808e3cce85d766bf2404ce34b28f044b11b83b6.jpg",
+      "role": "Diretor de Tecnologia da Grite Soluções"
+    },
+    {
+      "id": "7362",
+      "name": "Genésio Gomes da Cruz Neto",
+      "bio": "Professor, Empreeendedor, Palestrante, Investidor Anjo. Fundador do Células Empreendedoras, empresa através da qual já realizou programas de educação empreendedora para governos de estado e eventos. Embaixador da Campus Party onde atua na área de educação empreendedora e formação de professores. Ganhador de vários prêmios nacionais em Educação Empreendedora e Inovação Aberta, tais como o de Educação Empreendedora Brasil da Endeavor. Tem Doutorado em Ciência da Computação pelo Cin/UFPE em grupo de pesquisa sobre tecnologias educacionais.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/555a7afb6c904e870b1b382ff237e459e0a5c47b.jpg",
+      "role": "Professor de Empreendedorismo da UPE e Empreendedor"
+    },
+    {
+      "id": "7439",
+      "name": "George Rotteny",
+      "bio": "George Rotteny é Tech Lead, Arquiteto de Software e Co-fundador da Gorila Software House. Com mais de 15 anos de experiência no ecossistema PHP/Laravel, é especialista em arquitetura escalável, automação com IA e modernização de plataformas legadas de alto volume. Atua ativamente na comunidade tech através do PHPi.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/282f758aeac7003eac3abd8f48214f1de3f08258.jpg",
+      "role": "Tech Lead e Arquiteto de Software"
+    },
+    {
+      "id": "7364",
+      "name": "Giovanni Alves",
+      "bio": "Economista, especialista nos fundamentos de metodologias ágeis, sócio da Grite Soluções, startup que realiza movimentos de inovação aberta. Atua como Gerente de Projetos e lidera projetos de iniciativas inovadoras em empresas de diversos portes.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/c8c1c0bbb821b05ef41555b3b95ee4e424d2ccff.jpeg",
+      "role": "Diretor de Operações da Grite Soluções"
+    },
+    {
+      "id": "7382",
+      "name": "Guilherme Alves",
+      "bio": "Embaixador da Campus Party, cofundador da consultoria i2b (atuante em 8 Sebraes do Brasil) e do Jambo Coworking, mentor de negócios de impacto e startups, doutor em Ciência da Informação, professor, consultor e palestrante em inovação.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/6a0b8f87f1ba0d2c9f244dc3d925eaff1f669de9.jpeg",
+      "role": "Embaixador da Campus Party"
+    },
+    {
+      "id": "7355",
+      "name": "Gustavo Guanabara ",
+      "bio": "Gustavo Guanabara é carioca da gema, professor de TI e atua há 32 anos ajudando jovens a se tornarem a próxima geração de programadores. Em 2013, criou o canal “Curso em Vídeo” no YouTube, que tem mais de 2,6 milhões de alunos inscritos e registra mais de 1,5 bilhão de impressões na plataforma. Como palestrante, já atuou em grandes eventos de tecnologia como a Campus Party, Impacta Google e o Universo TOTVS.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/6939058c83dcbec467f4cb8acc9390fa3f9ead56.jpg",
+      "role": "Diretor Educacional | Criador do Curso em Vídeo"
+    },
+    {
+      "id": "7394",
+      "name": "Gustavo Henrique",
+      "bio": "Gustavo Dias é profissional de Comércio Exterior, mestrando em Economia e atualmente atua como Gerente de Comércio Exterior e Acesso a Mercados da Investe Piauí e Coordenador do Programa Made In Piauí.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/6a75b1ba32a7a0c673bc11d8ac93290b2dc288ad.jpg",
+      "role": "Gerente de Comércio Exterior e Coordenador do Made in Piauí"
+    },
+    {
+      "id": "7468",
+      "name": "Gustavo Rodrigues Wanderley",
+      "bio": "Gustavo Rodrigues é bacharel em Ciência da Computação, está cursando especialização em Dispositivos Móveis e tem mais de 6 anos de experiência em desenvolvimento. Atua com Flutter, React Native e criação de BFFs em Node.js, com passagem por projetos nos segmentos de fintech, agro, e-commerce, educação e mídia. Sua experiência abrange todo o ciclo de desenvolvimento mobile, da arquitetura à publicação, com foco em qualidade de código, colaboração e soluções que geram valor para as pessoas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/d6f6ec92ae4e7eccbfe36580e7d5853783a056ce.jpg",
+      "role": "Desenvolvedor Mobile Sênior"
+    },
+    {
+      "id": "7370",
+      "name": "Heitor Luiz Rodrigues de Queiroz",
+      "bio": "Divulgador científico piauiense e multimedalhista em olimpíadas científicas. É embaixador do Projeto Saturn e do Pop Ciência, do MCTI. Desde 2023, desenvolve a iniciativa voluntária Compartilhando Astronomia com Heitor Luiz, voltada a crianças e jovens.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/5743f9ee468b3fb4aa1df3dd3e90907dcc4609ed.png",
+      "role": "Multimedalhista em olimpíadas científicas"
+    },
+    {
+      "id": "7461",
+      "name": "Helena Lima Silva Gomes",
+      "bio": "Helena é estudante do Instituto Dom Barreto, em Teresina, Piauí. Com apenas 11 anos, é multimedalhista em diversas áreas do conhecimento e tem interesses que vão da Matemática, Astronomia e Astronáutica à História, ao Inglês e às Artes.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/bdc853003fe77a0b21e0fa3353412ba84013e63b.png",
+      "role": "Estudante"
+    },
+    {
+      "id": "7453",
+      "name": "Higo Matos",
+      "bio": "Founder & CEO at RevGás.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/32aad44c2dea796020abc563dc63537a392293fc.jpg",
+      "role": "ELITHE (Ecossistema de Teresina)"
+    },
+    {
+      "id": "7372",
+      "name": "Hilton Elias",
+      "bio": "Mestrando em Engenharia Elétrica pela UFPI, bacharel em Ciência da Computação e em Ciências Contábeis. Especialista em Desenvolvimento Full Stack e Mobile. Atua no ensino de informática, programação e sistemas desde 2006. Pesquisa sistemas embarcados e instrumentação.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/003a8d90bd2f86a8e215c8e517a17a32d964c16d.png",
+      "role": "Especialista em Desenvolvimento Full Stack e Mobile"
+    },
+    {
+      "id": "7404",
+      "name": "Ian Oliveira",
+      "bio": "Sou GDG Lead Organizer e Engenheiro de Software com foco em mobile. Especialista em Flutter desde 2018, hoje atuo na Appmax desenvolvendo soluções com Inteligência Artificial no app Max para milhões de usuários. Técnico em Informática pelo Liceu Parnaibano, Bacharel em Ciência da Computação pela UESPI e especialista em Desenvolvimento Mobile pelo IFPI. Fundador e organizador das comunidades Flutter Piauí e GDG Parnaíba, fomento o ecossistema de tecnologia no Piauí com eventos, mentorias e conteúdo. Apaixonado por criar produtos, compartilhar conhecimento e viajar.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/a219afa979661575877064e82c3d854ec256eb7f.jpg",
+      "role": "Engenheiro de Software Sênior"
+    },
+    {
+      "id": "7397",
+      "name": "Iara Tamyres",
+      "bio": "Profissional de marketing e vendas, CEO da Growth S/A, assessoria de Marketing, vendas e tecnologia e do Ranking de Vendas PRO primeira plataforma de ranking e gamificação de vendas do Brasil. Responsável pela tração de +2500 empresas em todo o Brasil e também nos Estados Unidos.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/6aef595c722d7c6e6e88bdcedafd21b3591d8512.jpeg",
+      "role": "CEO"
+    },
+    {
+      "id": "7387",
+      "name": "Ilana Almeida",
+      "bio": "Ilana Almeida é educadora formada em Pedagogia e apaixonada por ciência, educação e inovação. Embaixadora do Projeto Saturno e madrinha do Projeto EXPANDE, acredita no poder da astronomia e da tecnologia para despertar a curiosidade, ampliar horizontes e transformar a aprendizagem em uma experiência de descobertas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/01711f0212781131f11414b754f894555d71eaf7.jpeg",
+      "role": "Educadora"
+    },
+    {
+      "id": "7374",
+      "name": "Isaac de Sousa Magalhães",
+      "bio": "Graduando em Engenharia da Computação com Inteligência Artificial no UNI CET. Participa de atividades de iniciação científica e se interessa pelo desenvolvimento de soluções tecnológicas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/66789dcc166b6944c17e662f93f767b7e8638b60.png",
+      "role": "Graduando em Engenharia da Computação com IA no UNI CET"
+    },
+    {
+      "id": "7481",
+      "name": "Isac B. Matos",
+      "bio": "É graduando em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pelo Instituto Federal do Piauí (IFPI) - Campus Floriano, com formação técnica em Informática pelo IFPI. É coordenador da plataforma Overflows e desenvolvedor Full Stack, atuando em projetos de desenvolvimento de software, tecnologias educacionais, automação e programação competitiva, com interesse em inteligência artificial e engenharia de software.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/22c635ece30558bdc70b030c482673e071f3b1b3.png",
+      "role": "Coordenador e Desenvolvedor Full Stack na Plataforma Overflows"
+    },
+    {
+      "id": "7398",
+      "name": "Isélia Alves      ",
+      "bio": "Administradora, com pós em marketing digital e criação e produção de moda, empreendedora há mais de 20 anos, falo em minhas redes sociais sobre empreendedorismo e atualidades, sempre de forma leve e de fácil entendimento.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/0fe0d85e483c8efb3cf4950a1720c7b80afa6060.jpeg",
+      "role": "Empreendedora e Influencer"
+    },
+    {
+      "id": "7471",
+      "name": "Jadyel Silva Alencar",
+      "bio": "Jadyel Silva Alencar é deputado federal pelo Piauí, empresário e presidente da Comissão de Desenvolvimento Econômico da Câmara dos Deputados em 2026. Foi relator do ECA Digital (Lei nº 15.211/2025), marco legal brasileiro de proteção de crianças e adolescentes no ambiente digital, com atuação nas discussões sobre direitos fundamentais, responsabilidade das plataformas e segurança de crianças e adolescentes no uso de tecnologias.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/7a61eebb4db434b97c2eda69ecd4942fdbb15c34.png",
+      "role": "Deputado Federal "
+    },
+    {
+      "id": "7431",
+      "name": "Jane Lima",
+      "bio": "Jane Lima é CEO da ATEND, especialista em IA para empresas e IA industrial, líder veterana do InovAtiva Brasil e fundadora de uma startup vencedora dos editais Startup Nordeste, Centelha e TECNOVA. Com 25 anos de experiência como gestora de franquias, atacado e distribuição, foi 1º lugar no Empretec Startups – Desafio Uni, lidera o projeto Mulher ATEND, aprovado no APEX/Sebrae com participação no Web Summit Lisboa, e recebeu reconhecimento no Prêmio SEBRAE Mulher de Negócios na categoria Ciência, Tecnologia e Inovação.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/fac767615043aaa88ac53a2711d62278b1cae122.jpg",
+      "role": "CEO e especialista em IA para empresas"
+    },
+    {
+      "id": "7432",
+      "name": "Jannayna Tavares",
+      "bio": "Jannayna Tavares é mestra em Administração, empreendedora, consultora de negócios e especialista em inovação, Design Thinking e Design de Futuros, com mais de 24 anos de experiência em educação e desenvolvimento de pessoas e negócios. Foi Secretária Executiva de Desenvolvimento Econômico de Teresina e Gestora de Inovação da Investe Piauí. É consultora do Sebrae, mentora de startups, professora universitária e fundadora do Laboratório Educação do Futuro. Acredita no protagonismo feminino como força para construir negócios sustentáveis e transformar realidades.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/3f9a697a215379c142990d6312b3da65ee52e4b4.jpg",
+      "role": "Professora Empreendedora"
+    },
+    {
+      "id": "7473",
+      "name": "Jéssica Senra",
+      "bio": "É uma das principais referências em Comunicação no Nordeste e no Brasil, reconhecida pela credibilidade, coragem editorial e profunda conexão com o público. Comunicadora por vocação, atua há quase três décadas na área, sendo mais de 20 anos no jornalismo profissional, e se consolida como uma voz respeitada também no ambiente digital brasileiro. Seus conteúdos nas redes sociais acumulam mais de 83 milhões de visualizações. \r\n\r\nAo longo da carreira, esteve em rádios e emissoras baianas e nacionais, incluindo passagem pelo Jornal Nacional.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/b43c2321a4f0d4ba1e1f6b6b7bd882aa889a7c8e.jpeg",
+      "role": "Jornalista"
+    },
+    {
+      "id": "7421",
+      "name": "Joan Eduardo Pereira Farias",
+      "bio": "Joan Eduardo Pereira Farias é estudante do 9º período de Medicina da Universidade Federal do Piauí (UFPI), com interesse em inovação em saúde, educação e fortalecimento do SUS. Engajado em iniciativas acadêmicas e sociais, acredita na educação como instrumento de transformação e na saúde como direito universal, defendendo uma formação médica humanizada, científica e socialmente comprometida.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/f05c760bbb2a3aeb962fa6de951375639d02f357.jpg",
+      "role": "Agente Acadêmico de Inovação (GAAI)"
+    },
+    {
+      "id": "7378",
+      "name": "João Gabriel Oliveira da Silva Araújo",
+      "bio": "Graduando em Engenharia da Computação com Inteligência Artificial no UNI CET. Integra, como aluno de iniciação científica, o grupo de pesquisa orientado pelo Prof. Dr. Gildário Dias Lima.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/425869947bd0636d5de8fbebd2ba7e9231a26ed1.png",
+      "role": "Graduando em Engenharia da Computação com IA no UNI CET"
+    },
+    {
+      "id": "7465",
+      "name": "João Marcello Machado Braz",
+      "bio": "Sou João Marcello, desenvolvedor web full stack, com 7 períodos cursados de Ciência da Computação na UESPI, campus de Piripiri, e cerca de 2 anos e meio de experiência entre estágios e trabalhos como freelancer. Meu foco é o front-end e aplicações web em tempo real, mas gosto de acompanhar o produto de ponta a ponta, do banco de dados à interface. Na faculdade, também me envolvo com redes, segurança e inteligência artificial, o que me ajuda a construir soluções mais completas e seguras. Fora do código, produzo conteúdo de programação para ajudar quem está começando.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/85c4ee639a29b4953d46d034412828ee563d521b.jpg",
+      "role": "Desenvolvedor Web Fullstack"
+    },
+    {
+      "id": "7474",
+      "name": "João Pedro de Mesquita Vieira",
+      "bio": "Desenvolvedor de software e formado em Análise e Desenvolvimento de Sistemas no IFPI. Atua com desenvolvimento web, análise de dados e visão computacional. Lidera equipes em projetos de tecnologia, organizando prioridades e conduzindo o trabalho da ideia à validação com usuários. Entre suas iniciativas, desenvolve soluções que combinam inteligência artificial e dados geoespaciais para apoiar profissionais no monitoramento de áreas e desastres naturais.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/35147a269c4d078b81d5469ab273949b37898c67.jpg",
+      "role": "CEO e desenvolvedor de software"
+    },
+    {
+      "id": "7381",
+      "name": "José Cândido",
+      "bio": "José Cândido é Engenheiro de Software com atuação em desenvolvimento Full Stack e infraestrutura de TI. Possui experiência com diferentes linguagens de programação, desenvolvimento de sistemas e utilização de Inteligência Artificial como ferramenta de apoio à Engenharia de Software. Defende o uso crítico da IA, priorizando decisões técnicas fundamentadas, qualidade e sustentabilidade dos projetos.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/f08d2278146cb7c5ba023a3759edf8eaf3d486ea.png",
+      "role": "Engenheiro de Software | Desenvolvedor Full Stack"
+    },
+    {
+      "id": "7412",
+      "name": "José Henrique de Sousa Amarante",
+      "bio": "Graduando em Engenharia de Produção pela UFPI e técnico em Logística pelo IFPI. Possui experiência em logística, suprimentos, manutenção, marketing e gestão administrativa nos setores industrial, comercial e de transportes. Atua na manutenção do Grupo Pintos e integra o Grupo de Agentes Acadêmicos de Inovação (GAAI) da UFPI, fortalecendo a cultura empreendedora. Conta com formação complementar em inovação, gestão da qualidade e planejamento estratégico, com foco em melhoria contínua e processos.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/34b5ad7b20ff0e3c84fd5145c518212344899048.jpg",
+      "role": "Agente Acadêmico de Inovação (GAAI)"
+    },
+    {
+      "id": "7488",
+      "name": "Júnior Morais",
+      "bio": "Júnior Morais (@o.juniormorais) é um executivo com atuação nos setores de tecnologia e educação. Sua carreira tem como principais focos o mercado de esportes eletrônicos (games), estratégias de marketing e o desenvolvimento e aplicação de inteligência artificial.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/92f2aff76d83b3fcea2c7252e644645afec22e43.jpeg",
+      "role": "Profissional em Esportes Eletrônicos"
+    },
+    {
+      "id": "7354",
+      "name": "Kananda Paixão",
+      "bio": "Kananda Eller é nascida no subúrbio de Salvador, Bahia. Ela é palestrante e popularizadora da ciência do perfil Deusa Cientista (@deusacientista), onde soma mais de 600 mil seguidores nas plataformas digitais, fazendo este trabalho há 6 anos. Seu conteúdo torna a ciência acessível ao público em geral, discutindo a história e a cultura feminina, afro-brasileira e indígena na ciência. Formada em Química na Universidade Federal da Bahia (UFBA), formada em MBA em Marketing pela USP/ESALQ, Mestra em Ensino de Ciências Ambientais pela USP.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/e51dfab3943360e4fbcb6e404c4c1949d1f471d0.png",
+      "role": "CEO Deusa Cientista"
+    },
+    {
+      "id": "7446",
+      "name": "Karoline Farias",
+      "bio": "Doutoranda e mestre em Ciência da Computação pela Universidade Federal do Piauí (UFPI). Atua como Analista de Machine Learning no Instituto de Pesquisas Eldorado. Possui experiência em pesquisa e desenvolvimento em Inteligência Artificial, com ênfase em Visão Computacional, Processamento de Linguagem Natural e Análise de Dados. É colaboradora do PyLadies Teresina desde 2017.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/bd0724c9680dd3082882b09160568550fd7daa9e.jpg",
+      "role": "Doutoranda e Analista de Machine Learning"
+    },
+    {
+      "id": "7448",
+      "name": "Kauê Victor dos Santos Lima",
+      "bio": "Kauê Victor é desenvolvedor back-end pleno, com forte base em PHP e Laravel, e Embaixador oficial da Stellar, uma das maiores redes de blockchain do mundo focadas em pagamentos. Atua diretamente na ponte entre a Web2 e a Web3 desenvolvendo SDKs e aplicações descentralizadas (dApps). Além de atuar na engenharia de software, é um dos líderes no fomento à educação e adoção de tecnologias Web3 no estado, co-organizando comunidades como a Blockchain Piauí.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/2558a965849b82400944d84d7f5d327bc488a1db.jpg",
+      "role": "Desenvolvedor Back-end"
+    },
+    {
+      "id": "7455",
+      "name": "Kayelle O'Hara Barbosa Silva",
+      "bio": "Aluna do Técnico em Administração - IFPI Graduanda em Engenharia Elétrica - UFPI Medalhista Caça Asteroides MCTI , Medalhista Olimpiada Brasileira de Geografia,e participação em OBA, OBAFOG, ONEE, MOBFOG.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/3a93a3cfe35b7f8422e7609a46bf5c98bab66e2a.png",
+      "role": "Estudante"
+    },
+    {
+      "id": "7438",
+      "name": "Keoma Sousa",
+      "bio": "Keoma Sousa é Engenheiro Eletricista, Hacker Ético, mestrando em Ciência da Computação pela Universidade Federal do Piauí (UFPI), professor e pesquisador na área de Cibersegurança. Atua com foco em segurança da informação, compartilhando conhecimentos e contribuindo para a formação de profissionais na área de tecnologia.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/43d525b6cdbe14da6d321b7ed147ada8188a272c.jpg",
+      "role": "Engenheiro Eletricista"
+    },
+    {
+      "id": "7420",
+      "name": "Leonardo Pio Vasconcelos",
+      "bio": "Doutor e Mestre em Ciência da Computação pela UFF. Tecnólogo em Sistemas de Computação pelo CEDERJ/UFF. Atualmente, é professor do curso de Sistemas de Informação da UFPI. É docente credenciado no Programa de Pós-Graduação em Engenharia Elétrica (PPGEE/UFPI). Atua como Secretário Regional da Sociedade Brasileira de Computação (SBC) no Piauí. É Tutor de Inovação do GAAI, vinculado à PROPESQI/UFPI. Desenvolve pesquisas nas áreas de Interação Humano-Computador (IHC), Inteligência Artificial (IA), Trabalho Cooperativo Apoiado por Computador (CSCW) e Cidades Inteligentes.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/1968b4f4cdc2b100bdc8723e1229379eed30b28f.jpg",
+      "role": "Docente Universitário"
+    },
+    {
+      "id": "7403",
+      "name": "Leone Rodrigues Santos",
+      "bio": "Leone Rodrigues Santos é bacharel em Ciência da Computação pela Universidade Estadual do Piauí (UESPI), onde atuou como monitor das disciplinas de Programação II e IV e realizou estágio não obrigatório na área de Redes de Computadores e Infraestrutura. Desenvolveu seu Trabalho de Conclusão de Curso na área de Engenharia de Software, com aplicação de blockchain, cujo artigo foi publicado na Revista REIC. Em 2025 e 2026, ministrou minicursos sobre blockchain no OpalaTech, evento de tecnologia do IFPI.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/c0e3914432323a57dd1f47afad1309773199d286.jpg",
+      "role": "Desenvolvedor full stack"
+    },
+    {
+      "id": "7406",
+      "name": "Leydilene Veloso",
+      "bio": "Advogada Criminalista • Contadora • Professora Universitária (UFPI e Estácio) • Doutoranda em Direito pela UNESA/RJ • Mestra em Ciências Contábeis e Administração pela FUCAPE • Conselheira do CRC/PI. Sócia da Spring Contabilidade e Consultoria, atuo com contabilidade e planejamento tributário para empresas e pessoas físicas. Combino conhecimento jurídico e contábil para entregar soluções seguras e estratégicas, sempre focada no crescimento sustentável e na tranquilidade dos meus clientes.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/c57050747a64e307cdfe7cac207c7a28f840afb2.jpg",
+      "role": "Contadora e Professora Universitária"
+    },
+    {
+      "id": "7407",
+      "name": "Lorena Maria de Moura Santos",
+      "bio": "Estudante do quarto período de Jornalismo na UFPI e membro do Grupo de Agentes Acadêmicos desde 02/2026.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/5f0da499fbbf97aa540a56ac20367547a3c1cc31.jpg",
+      "role": "Agente Acadêmico de Inovação (GAAI)"
+    },
+    {
+      "id": "7422",
+      "name": "Lucas Costa",
+      "bio": "Sou engenheiro e gestor de Projetos, Produtos e Inovação na ETIPI. Atuo na estratégia de produtos digitais, governança de TI e parcerias com startups, estruturando soluções escaláveis de governo digital no Piauí e em outros estados. Mestre em Engenharia com 4 registros de software no INPI e perito técnico, uno visão de negócios à arquitetura de soluções. Trajetória com infraestrutura crítica, redes, cloud, continuidade de negócios, observabilidade e agilidade no setor público e privado. Professor de Engenharia de Software e Administração. Domínio em ITIL, ISOs (27001, 9001, 20000), PMBOK, Scrum e Lean.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/3eb317234b44707d5645be346df80ea4bd2f71f4.jpg",
+      "role": "Gerente de Serviços, Produtos e Inovação"
+    },
+    {
+      "id": "7440",
+      "name": "Lucas Soares Batista",
+      "bio": "Lucas Batista é Gestor de Produtos e Analista de Projetos, com trajetória na liderança de projetos de tecnologia e inovação educacional e pública. Tem experiência na coordenação de equipes multidisciplinares, monitoramento de KPIs e SLAs, implementação de sistemas e alinhamento estratégico com entidades públicas e parceiros. Já atuou como docente na área de tecnologia e hoje se dedica à gestão de produtos e soluções digitais, traduzindo desafios complexos em soluções que impulsionam a transformação digital e a capacitação de pessoas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/16411ddd979344b825bc89ebee0f4438d05a1b10.jpg",
+      "role": "Gerente de Produtos"
+    },
+    {
+      "id": "7449",
+      "name": "Luciana Mari Tsukada",
+      "bio": "Executiva com 20 anos de experiência em inovação, empreendedorismo e impacto socioambiental, é mestre em Economia Internacional e Desenvolvimento pela Universidade Complutense de Madrid, e especialista em Economias Latino-Americanas pela CEPAL. Atuou em grandes organizações como IBM, Vale e Samsung, e foram iniciativas nacionais e locais de fomento a startups, como o TechD e o Inova Maranhão, trazendo uma visão estratégica e sensível aos desafios de negócios de impacto. Comprometida com soluções transformadoras e sustentáveis, acompanha startups desde a ideação até a internacionalização.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/cfaf542b33f7f1f57d3dac5f1fb80b677ada737b.jpg",
+      "role": "Gerente Executiva da Startup Piauí"
+    },
+    {
+      "id": "7413",
+      "name": "Luís Felipe Duruta da Silva",
+      "bio": "Graduando em Engenharia Agronômica (UFPI) e técnico em Biocombustíveis. Atua ativamente no ecossistema de inovação e no movimento de empresas júniores por meio da Agrupi Júnior e do Grupo de Agentes Acadêmicos de Inovação (GAAI).",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/1be4f17f6408af0c420952d6df874648a7d2022f.jpg",
+      "role": "Agente Acadêmico de Inovação (GAAI)"
+    },
+    {
+      "id": "7410",
+      "name": "Luzardo Lustosa Silva",
+      "bio": "Luzardo Lustosa Silva é desenvolvedor Full Stack, professor e criador de soluções educacionais (EdTech). Atua com tecnologia, inovação e formação profissional, transformando desafios reais em experiências práticas de aprendizagem.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/9f37afdbba6642d724c06ab997ed192f8b638c41.jpg",
+      "role": "Educador tecnológico e criador de soluções digitais"
+    },
+    {
+      "id": "7443",
+      "name": "Maisa Barbosa Santos",
+      "bio": "Analista de Negócios do Sebrae Piauí. Administradora, especialista em Empreendedorismo e Inovação, com MBA Executivo em Liderança e Gestão Empresarial e mestra em Propriedade Intelectual.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/b4115e6256cf242859f9e8e83595d705734119d7.jpg",
+      "role": "Analista de Negócios"
+    },
+    {
+      "id": "7429",
+      "name": "Marcelo Jannotti Bueno",
+      "bio": "Auditor Fiscal da Fazenda Estadual do Piauí desde 2016, pós-graduação em Gestão Empresarial com ênfase em Finanças pela Fundação Dom Cabral e graduado em Engenharia Civil pela UFMG. Iniciou na BADESPI em 2023 como Diretor Administrativo Financeiro. Atualmente é Diretor-Presidente, responsável pela transformação digital e modernização da instituição, contribuindo para a expansão do crédito destinado aos empreendedores do Estado.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/11d11b3920d0130e47b25275af3ad73878b32873.jpg",
+      "role": "Diretor-Presidente do BADESPI"
+    },
+    {
+      "id": "7452",
+      "name": "Maria de Fátima Cardoso Pinheiro",
+      "bio": "Maria de Fátima Cardoso Pinheiro é técnica em Administração pelo Instituto Federal do Piauí (IFPI) e graduanda em Arquitetura e Urbanismo pela UniNovafapi, onde é bolsista integral pelo ProUni. Interessada em ciência, tecnologia e inovação, gosta de participar de projetos científicos e iniciativas acadêmicas que proporcionem novas experiências, conhecimentos e oportunidades de aprendizado.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/70f51f666d2a6c57e440d926957987d8da75331f.png",
+      "role": "Técnica em Administração"
+    },
+    {
+      "id": "7408",
+      "name": "Maria Fernanda Bacelar Rodrigues",
+      "bio": "Discente do 5º período de Ciências Contábeis na UFPI. Fluente em inglês, enxerga a contabilidade não apenas como números, mas como uma solução estratégica para pessoas físicas e jurídicas. É integrante do GAAI e Agente de Inovação do CCHL, sempre em busca de unir conhecimento e inovação para entregar valor real por meio da contabilidade.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/ea642bacd490550c4fcdf44caa42f7694505c3e7.jpg",
+      "role": "Agente Acadêmico de Inovação (GAAI)"
+    },
+    {
+      "id": "7435",
+      "name": "Maria Júlia",
+      "bio": "",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/b595c28d6da8e3489fe2c7e0027bf1462898a81d.png",
+      "role": "Pesquisadora"
+    },
+    {
+      "id": "7444",
+      "name": "Maria Katriane",
+      "bio": "Maria Katriane é Product Manager, pós-graduanda em Gestão de Produtos Digitais, com experiência em gestão de projetos, planejamento estratégico e inovação. É representante estadual da PHPWomen Brasil no Piauí e uma das lideranças responsáveis pelo fortalecimento das comunidades PHP PI e PHPWomen PI. Também é coorganizadora do Sertão Tech, evento que conecta pessoas, tecnologia e oportunidades no interior do Piauí. Atua no incentivo à diversidade, inclusão e protagonismo feminino na tecnologia, acreditando no poder das comunidades para transformar trajetórias e abrir caminhos.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/e2756a3224873b0fff6e2219508f8d08d8b24eae.jpg",
+      "role": "Product Manager"
+    },
+    {
+      "id": "7458",
+      "name": "Maria Mariana Rodrigues Melo",
+      "bio": "Aluna do Técnico em Administração - IFPI Graduanda em Engenharia Mecânica - UFPI Medalhista de ouro na OBG, Caça Asteroides Participações: OBA, OBAFOG Membro da equipe de foguetemodelismo Quasar Rocket da UFPI, e atuante em projetos de STEM, como o Technovation Summer School for Girls - GRACE ICMC USP.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/3b494a6ca681aec9012bcddaadcc44fad02ff272.png",
+      "role": "Estudante"
+    },
+    {
+      "id": "7457",
+      "name": "Mariana Marques Andrade",
+      "bio": "Estudante do curso Técnico em Meio Ambiente ( IFPI ) Medalhista na Olimpíada Brasileira de Astronomia, Olimpíada Brasília de Foguetes, Olimpíada Brasília de Geografia.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/b776a4af406e71d9ca515c3cedb22bf9f2e78cc0.png",
+      "role": "Estudante"
+    },
+    {
+      "id": "7417",
+      "name": "Marina Bezerra da Silva",
+      "bio": "Bacharel em Administração pela Universidade Federal do Piauí; Mestra e Doutora em Ciência da Propriedade Intelectual pela Universidade Federal de Sergipe; Professora de Administração do IFPI-Teresina Zona Sul; Professora Permanente do Mestrado em Propriedade Intelectual do IFPI e do PROFNIT da UFPI; Realiza e orienta pesquisas em Inovação e Estratégias de Proteção da Propriedade Intelectual. Possui experiências em projetos de inovação tecnológica e empreendedorismo inovador.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/1ab31077a4e5ae2cf383c8d41597dbebaedc74b1.jpg",
+      "role": "Professora"
+    },
+    {
+      "id": "7466",
+      "name": "Maxiwel Eduardo Correa",
+      "bio": "Sou tecnólogo desde a década de 80, professor de tecnologia, engenheiro de redes, engenheiro eletrotécnico e desenvolvedor (Delphi, Flutter, PHP, Lazarus etc.), amante de tecnologia. Já trabalhei em várias empresas de tecnologia e desenvolvi várias soluções para clientes em Delphi, Flutter e outras áreas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/d024bcf3bf4234a073d05bf5b69cc3e5b78187f6.jpg",
+      "role": "Analista de sistemas e professor de tecnologia"
+    },
+    {
+      "id": "7476",
+      "name": "Mikael Oliveira",
+      "bio": "Contador, empresário, entusiasta geek e consultor de empresas e de outros contadores há mais de 15 anos. Atuo como Contador por meio da empresa Alpha Consult Contabilidade, sou consultor da plataforma CEFIS para outros contadores e sócio da Startup TechPro Solutions na área de tecnologia.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/d526da6c11a7790a901ff49f0df2eb584f8c8a38.png",
+      "role": "Contador e Consultor de Empresas"
+    },
+    {
+      "id": "7415",
+      "name": "Orlando Maurício de Carvalho Berti",
+      "bio": "Pós-doutor, Doutor e Mestre em Comunicação. Especialista em Inteligência Artificial. Professor, pesquisador e autor de vários livros sobre Inteligência Artificial. Diretor do Laboratório de Inteligência Artificial e Jornalismo da UESPI e professor do Mestrado em Comunicação da UFPI.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/525d88f3fcee9276b3d8e496f0d9d13c338e48aa.jpg",
+      "role": "Docente Universitário"
+    },
+    {
+      "id": "7409",
+      "name": "Otilio Paulo da Silva Neto",
+      "bio": "Doutor pelo programa de Engenharia de Eletricidade. Professor do Instituto Federal do Piauí - IFPI. Tem experiência na área de Ciência da Computação com ênfase em análise e processamento de imagens, visão computacional, atuando principalmente nos seguintes temas: Descoberta e tratamento do câncer, Inteligência artificial e apaixonado por tecnologia.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/1ba9f495e7d699efe7a3418876787eb47c132816.jpg",
+      "role": "Professor e fundador de startup de IA"
+    },
+    {
+      "id": "7430",
+      "name": "Pedro de Jesus Medeiros Costa Campos Sousa",
+      "bio": "Diretor-Presidente do Piauí Gov Tech. Advogado com mais de 10 anos de experiência estratégica em contratações públicas, incluindo projetos de PD&I, encomendas tecnológicas e transformação digital. Foi Procurador-Geral do Município de União. Pós-graduando em Inteligência Artificial Generativa pela PUC-Rio e desenvolvedor Apple. Fundador do ContratAI, plataforma que fornece conhecimento técnico e inteligência artificial para simplificar contratações públicas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/39c9504fd649a1be4b47235690af1d78217e8848.jpg",
+      "role": "Diretor-Presidente do Piauí Gov Tech"
+    },
+    {
+      "id": "7350",
+      "name": "Penegui - Davi Mikael",
+      "bio": "Penegui é pesquisador e profissional de Segurança da Informação, com foco em Hardware Hacking, e criador de conteúdo técnico. Pós-graduado em Hardware Hacking, dedica-se à pesquisa de vulnerabilidades em tecnologias RFID/NFC, pagamentos por aproximação e sistemas de controle de acesso. É criador do treinamento Pentest em RFID/NFC e palestrante em eventos nacionais e internacionais, incluindo Mind The Sec e Ekoparty.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/1bbb6ab1b143cfba4f67a45f1c44dd69a3211683.png",
+      "role": "Pesquisador de Segurança da Informação"
+    },
+    {
+      "id": "7401",
+      "name": "PIT - Piauí Instituto de Tecnologia ",
+      "bio": "",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/a57a33259c92bd3b5fbb1cb0394cd77f98c98016.png",
+      "role": ""
+    },
+    {
+      "id": "7380",
+      "name": "Prof. Dr. Acácio Veras Jr.",
+      "bio": "Publicitário, professor universitário, doutor em comunicação e autor de \\\"Marketing na Era da IA\\\".",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/351586c646a446cbf5d11c41a492633eac4aa857.jpeg",
+      "role": "Publicitário e professor universitário"
+    },
+    {
+      "id": "7402",
+      "name": "Prof. Dr. Gildário Lima",
+      "bio": "Físico, doutor pela UFF e professor da UFDPar. Colabora com o Programa de Pós-Graduação em Engenharia Elétrica da UFPI e pesquisa física aplicada, robótica, neurociência e inteligência artificial. No Projeto Saturn, desenvolve ações de divulgação científica por meio da astronomia.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/697808fd52b8cda8f8cc30b3ebc6e99a24dfd45c.png",
+      "role": "Fundador da TRON Robótica Educativa"
+    },
+    {
+      "id": "7352",
+      "name": "Prof. Dr. Sandeco Macedo      ",
+      "bio": "Sandeco é referência nacional quando o assunto é Inteligência Artificial. Professor no IFG e na UFG, ele une a força da ciência com a leveza de uma didática que encanta. Com milhares de leitores e alunos espalhados pelo Brasil, cada aula, palestra ou parágrafo escrito carrega um propósito: tornar a IA acessível, útil e apaixonante para todos.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/369dd9cbd7ddb36b2a473e89ec35e89a3c2de49d.png",
+      "role": "Embaixador da Campus Party"
+    },
+    {
+      "id": "7486",
+      "name": "Prof. Dr. Vinícius Ponte Machado",
+      "bio": "Doutor em Engenharia Elétrica e de Computação e professor titular da Universidade Federal do Piauí (UFPI), onde atua no Departamento de Computação. Suas principais áreas de pesquisa são Inteligência Artificial, Sistemas Multiagentes, Aprendizagem de Máquina, Reconhecimento de Padrões e Gestão do Conhecimento. Graduado e mestre em Informática pela Universidade de Fortaleza (UNIFOR), possui produção científica em IA e aplicações em diferentes setores, especialmente na saúde, além de experiência na orientação de pesquisas de mestrado e na formação de novos pesquisadores.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/92dc94be5444fa1e49f2afd868327112e10d2d44.jpeg",
+      "role": "Professor na UFPI"
+    },
+    {
+      "id": "7388",
+      "name": "Prof. Me. Daniel Abreu",
+      "bio": "Daniel Abreu é pedagogo, Mestre pela USJT e especialista em Gestão Escolar e Políticas Públicas, com uma trajetória em EdTech e transformação digital. Atualmente, atua como Gerente de Operações e Comercial da Tron Robótica Educativa, onde sua bagagem multisetorial conecta a fundamentação pedagógica às ferramentas da Educação 4.0. Sob essa perspectiva, sustenta a implementação da astronomia educacional e da robótica como pilares para o desenvolvimento do pensamento científico. Ao longo de sua carreira, liderou a expansão de infraestrutura tecnológica em diversos estados.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/30100a7a96f4de2fca1f2a1cee57ca49416173c2.jpeg",
+      "role": "Especialista em Gestão Escolar e Políticas Públicas"
+    },
+    {
+      "id": "7377",
+      "name": "Prof. Msc. Patrício Lima",
+      "bio": "Patrício Lima é mestre em Comunicação pela Universidade Federal do Piauí (UFPI), jornalista e publicitário. Atualmente é gerente de Eventos da Investe Piauí e atua há mais de 15 anos nas áreas de comunicação estratégica, branding, marketing e eventos. Ao longo da carreira, participou de projetos para marcas como Beach Park, Grupo Pão de Açúcar, Shopping Rio Poty, Fortal, Piauí Pop, entre outras. Possui MBA em Branding, Marketing e Growth pela PUCRS e formação em Gestão de Eventos pela USP",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/aa8dac57fe62866b5184873f584bde8d434d3829.jpg",
+      "role": "Mestre em Comunicação, jornalista e publicitário"
+    },
+    {
+      "id": "7379",
+      "name": "Profa. Dra. Ana Regina Rego",
+      "bio": "Jornalista pela UFPI. Especialista em Ciências Humanas pela PUC-RS. Mestra e Pós-Doutora em Comunicação e Cultura pela ECO-UFRJ. Doutora em Processos Comunicacionais pela UMESP com estágio de doutorado na Universidade Autônoma de Barcelona. Pós-Doutorado em História Contemporânea pela Universidade de Sevilla. Presidiu a Associação Brasileira de Pesquisadores de História da Mídia-ALCAR e a Federação das Associações Científicas e Acadêmicas da Comunicação-SOCICOM. Criou e coordenou pelos primeiros 4 anos a Rede Nacional de Combate à Desinformação- RNCD.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/600127007e4b92d0dc0b3733edea7a5ae483981f.jpeg",
+      "role": "Fundadora da Rede Nacional de Combate à Desinformação (RNCD BR)"
+    },
+    {
+      "id": "7360",
+      "name": "Professor Salomão ",
+      "bio": "Salomão Ribas Gomez é professor titular da Universidade Federal de Santa Catarina e fundador da TXM Methods. Doutor em Engenharia de Produção, com formação em Design e pós-doutorado em criatividade e branding, trabalha para mudar o mundo de baixo para cima, conectando pessoas, ideias e negócios por meio da inovação aberta. Desenvolve métodos que tiram projetos do papel e os colocam em prática, com foco em validação real e impacto concreto. É pai de Pedro, Felipe e Maria.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/e02a050ec957d6dea5f271c14e067c9e18313142.jpg",
+      "role": "Professor Titular UFSC - Conselheiro TXM Methods"
+    },
+    {
+      "id": "7427",
+      "name": "Rafael Jales",
+      "bio": "Diretor-Presidente do Piauí Instituto de Tecnologia - PIT. Doutor e Mestre em Engenharia Elétrica pela Universidade de São Paulo - USP, com ênfase em Telecomunicações. Possui certificação internacional em empreendedorismo pelo Massachusetts Institute of Technology - MIT. Atua na liderança de iniciativas estratégicas de inteligência artificial, inovação, transformação digital, educação tecnológica e empreendedorismo.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/6ed5dce37a7fb9154acd84e79a17f4e5d3cd14d9.jpg",
+      "role": "Diretor-Presidente do Piauí Instituto de Tecnologia - PIT"
+    },
+    {
+      "id": "7373",
+      "name": "Rayla Sousa Oliveira",
+      "bio": "Graduanda em Engenharia da Computação com Inteligência Artificial no UNI CET. Participa de atividades de iniciação científica e tem interesse em computação, inteligência artificial e desenvolvimento tecnológico.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/fe0a9cb80ade273fa8db94535f76f706856c0e71.png",
+      "role": "Graduanda em Engenharia da Computação com Inteligência Artificial no UNI CET"
+    },
+    {
+      "id": "7425",
+      "name": "Rebeca Maria Costa Silva",
+      "bio": "Rebeca Maria Costa Silva é estudante de Engenharia Cartográfica e de Agrimensura na Universidade Federal do Piauí (UFPI). Atua e desenvolve experiências nas áreas de geoprocessamento, cartografia digital e mapeamento colaborativo, com ênfase no uso de geotecnologias e na produção de dados geoespaciais abertos. Possui experiência com ferramentas como QGIS, OpenStreetMap e sensoriamento remoto. Tem interesse em soluções geoespaciais aplicadas ao planejamento territorial, à análise ambiental e à compreensão das dinâmicas do espaço geográfico.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/f6034f28e8f3b175be7d2632663f867f857899d4.jpg",
+      "role": "Graduanda em Engenharia Cartográfica e de Agrimensura (UFPI)"
+    },
+    {
+      "id": "7390",
+      "name": "Ricardo de Andrade",
+      "bio": "Graduado em Ciência da Computação pela UFPI (2005) e doutor em Engenharia Elétrica pela USP (2010), é professor do Departamento de Computação do CCN/UFPI. Atua como pesquisador permanente no PPGCC, DCCMAPI e PPGEE, além de orientar bolsistas do PIBIC/CNPq e PIBITI, e coordena projetos de extensão em difusão tecnológica. Seus interesses de pesquisa incluem Sistemas Inteligentes (RNAs, Fuzzy, Computação Evolutiva), IoT, Otimização e Visão Computacional.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/9ac3df4266224b1aced372a041de72280a836515.jpg",
+      "role": "Prof. UFPI"
+    },
+    {
+      "id": "7384",
+      "name": "Roberto Luz",
+      "bio": "Professor e pesquisador da UFPI, doutor e pós-doutor em Química. Comunicador científico e fundador da DeuQuímica, atua na integração entre ciência, criatividade, educação e inovação.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/156edb263e89a4d8b9bd46de16346137ec9fbf4f.jpg",
+      "role": "Professor"
+    },
+    {
+      "id": "7467",
+      "name": "Rodrigo Teixeira de Melo",
+      "bio": "Arquiteto de Soluções Sênior, conecta problemas de negócio a soluções tecnológicas por meio da pesquisa aplicada e do método científico. Atuou em projetos internacionais como pesquisador e cientista de dados. Possui experiência em inteligência artificial, aprendizado profundo, previsão de séries temporais, processamento de imagens e visão computacional, com publicações científicas nessas áreas. Atua na concepção e estruturação de projetos de P&D, principalmente para a indústria em geral e o setor elétrico, articulando requisitos, viabilidade técnica, arquitetura e planejamento da execução.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/820ecb771d48df3d21949afb24e8687874ef4e61.jpg",
+      "role": "Arquiteto de Soluções Sênior"
+    },
+    {
+      "id": "7399",
+      "name": "Rodrigo Torres",
+      "bio": "Rodrigo Torres é servidor público federal da carreira de Especialista em Políticas Públicas e Gestão Governamental, com mais de 17 anos de experiência. Possui Mestrado e Bacharelado em Relações Internacionais pela Universidade de Brasília (UnB). Foi Secretário Nacional de Promoção dos Direitos da Criança e do Adolescente e presidente do Conselho Nacional dos Direitos da Criança e do Adolescente (CONANDA). Também atuou no Ministério da Educação, no Ministério de Direitos Humano e na Escola Nacional de Administração Pública (Enap).",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/6146f8e8a7eea73a29dcf3977c93b35acf7bcadf.jpeg",
+      "role": "Secretário da Educação"
+    },
+    {
+      "id": "7393",
+      "name": "Roland Gabriel Theophile Jacob",
+      "bio": "Roland Jacob é advogado, empresário e empreendedor, com atuação em negócios, investimentos e desenvolvimento econômico. Sócio do Roland Jacob Advogados e cofundador da R2M Advisors. É vice-presidente da AJE Piauí e conselheiro da Confederação Nacional de Jovens Empresários (CONAJE).",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/28ff268d8e6449b33b6269720482a627376c37cc.png",
+      "role": "Vice presidente da AJE Piauí"
+    },
+    {
+      "id": "7475",
+      "name": "Romero Antonio Ramos de Mendonça",
+      "bio": "Empreendedor e desenvolvedor, egresso do Instituto Federal do Piauí (IFPI), onde construiu sua trajetória acadêmica e empreendedora. É sócio-administrador da Comunicare Solutions, startup dedicada ao desenvolvimento de soluções tecnológicas para a saúde, com destaque para o Appraxi, aplicativo gamificado voltado à reabilitação da fala de pessoas com apraxia após eventos neurológicos. Também atua no desenvolvimento de sistemas aplicados à pesquisa científica na Universidade Federal do Piauí (UFPI) e possui experiência em projetos de pesquisa, inovação e empreendedorismo.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/0ff1dc0be4db3f8cc77043a73199beb61556a46e.jpg",
+      "role": "Desenvolvedor"
+    },
+    {
+      "id": "7386",
+      "name": "Rosely Castro      ",
+      "bio": "Sou Rosely Castro, formada em Marketing, com mais de 16 anos de experiência em gestão, vendas e liderança em empresas de diferentes portes e segmentos. Empreendedora por paixão, já tive um salão de beleza e uma marca com confecção própria. Hoje, lidero uma agência de marketing digital e a Farol Tech, startup de inteligência artificial. Minha trajetória é movida pelo propósito de fortalecer o empreendedorismo. Acredito no poder do conhecimento, da inovação e da tecnologia para tornar a gestão mais inteligente, ampliar oportunidades e impulsionar o crescimento de pequenos e médios negócios.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/754c60e260598c2afbb440883f4b67dcbb21dd75.jpg",
+      "role": "Fundadora e CEO"
+    },
+    {
+      "id": "7423",
+      "name": "Rubia Porsch",
+      "bio": "Farmacêutica (USP) e MBA em Gestão Estratégica (FGV), com mais de 25 anos de experiência em pesquisa, desenvolvimento, inovação e gestão estratégica. Destacou-se na liderança de PD&I na indústria farmacêutica, com iniciativa premiada pela Anprotec (2015). Atuou na implantação de parques tecnológicos, criação de centros de pesquisa e fortalecimento de ecossistemas inovadores. Especialista na articulação entre setor privado, Finep, BNDES e instituições científicas para captação de recursos e viabilização de projetos. Atualmente, é bolsista do Nintec/UFPI em inovação empresarial.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/f203d4d2f13d964271ca8a7095ef728cb2229117.jpg",
+      "role": "Farmacêutica"
+    },
+    {
+      "id": "7396",
+      "name": "Sâmia Cristina Pereira da Silva",
+      "bio": "Sâmia Cristina Pereira da Silva\r\nBacharel em Serviço Social pela Universidade Federal do Piauí - UFPI\r\nAssistente Social do Tribunal de Justiça do Piauí - TJPI\r\nAssistente Social da Prefeitura de Teresina - PMT.Qualificação/Experiências na área da formação:\r\n\r\nEspecializanda em Neurociências e Desenvolvimento Infantil pela PUC-Rio Grande do Sul;\r\nEntrevistadora Forense de Crianças e Adolescentes pelo CNJ há 07 (sete) anos;\r\nFormadora em Escuta Protegida(Escuta Especializada e Depoimento Especial).",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/5f3149e07043778437a74542569bc7a94f354064.jpeg",
+      "role": "Assistente Social do Tribunal de Justiça do Piauí - TJPI"
+    },
+    {
+      "id": "7376",
+      "name": "Samuel Medeiros Costa",
+      "bio": "Graduando em Engenharia da Computação com Inteligência Artificial no UNI CET. Participa de atividades de iniciação científica e tem interesse em computação, inteligência artificial e desenvolvimento tecnológico.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/a5cceeb43bc599028850641673f359a5e5a1d4f7.png",
+      "role": "Graduando em Engenharia da Computação com IA no UNI CET"
+    },
+    {
+      "id": "7400",
+      "name": "Startup Piauí ",
+      "bio": "",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/e9e37759d9514ab40e382d46e0585d02f3a65894.png",
+      "role": ""
+    },
+    {
+      "id": "7451",
+      "name": "Thais Trajano Costa Oliveira",
+      "bio": "Florianense, Enfermeira, Apicultura, ALI Sebrae de 2025 a 2026, Mentora Residente da Startup PI, Diretora de Negócios Inovadores da TechI3 PI, Sócia da Startup Cultura Digital +, Hive Sense e Apitech, e Coordenadora Municipal da Defesa Civil.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/953b92d094cec95a24dec6e08c387ac3ee4c8688.jpg",
+      "role": "Cais Valley (Ecossistema de Floriano)"
+    },
+    {
+      "id": "7349",
+      "name": "Thiago Mochileiro ",
+      "bio": "Tiago Mochileiro é empreendedor social, escritor e fundador do Mochileiro pela Educação, iniciativa que desde 2012 conecta literatura, educação e empreendedorismo para transformar realidades. Com experiência em educação corporativa e Recursos Humanos em empresas de tecnologia, construiu uma trajetória dedicada ao desenvolvimento de jovens, ao protagonismo e à criação de oportunidades por meio da educação. Já participou de importantes eventos nacionais e internacionais.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/2a8b1870716d304634302a225ae54521e328bd56.png",
+      "role": "Empreendedor social, escritor e fundador do Mochileiro pela Educação."
+    },
+    {
+      "id": "7489",
+      "name": "Thiarlyson de Queiroz Silva ",
+      "bio": "Graduado em Sistemas de Informação, com pós-graduação em Banco de Dados, possui mais de 10 anos de experiência em gestão operacional, logística, tecnologia da informação, liderança de equipes e melhoria contínua de processos. Atua com sistemas ERP/WMS, análise de dados e Business Intelligence (Power BI). Atualmente, é empreendedor e fundador da M3 Arena 3D, com foco em inovação, modelagem e impressão 3D.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/8405b4abde6d8724a5833f1ae477615d26407000.png",
+      "role": "Fundador da M3 Arena 3D"
+    },
+    {
+      "id": "7418",
+      "name": "Tiago Soares da Silva",
+      "bio": "Doutor em Ciência da Propriedade Intelectual da Universidade Federal de Sergipe (2022). Mestre em Tecnologias e Gestão em Educação a Distância pela UFRPE (2016). Graduado em Administração pela Universidade Federal do Piauí (2005). Tem experiência em Educação a Distância, Propriedade Intelectual e Inovação. É Professor do Campus do IFPI, Campus Valença. É Professor e Coordenador do Programa de Pós-graduação Profissional em Propriedade Intelectual.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/07814911839ac345587a8a17e2dc6ae2adbf4278.jpg",
+      "role": "Professor e coordenador universitário"
+    },
+    {
+      "id": "7411",
+      "name": "Valdivânia Albuquerque do Nascimento",
+      "bio": "Mestre e Doutora em Ciência e Engenharia de Materiais pela Universidade Federal do Piauí. Docente do curso de Bacharelado em Engenharia de Materiais da UFPI. Tutora do Grupo de Agentes Acadêmicos de Inovação (GAAI). Coordenadora do Laboratório Multiusuário de Pesquisa de Tecnologias Avançadas em Cerâmicas (LAC-TEC - UFPI). CEO da Startup Hydro Pure, com funções de coordenação das pesquisas para desenvolvimento de novos materiais, teste de protótipos, e publicação de resultados inovadores. Trabalha com abordagem sustentável para tratamento de água, agricultura e gestão de resíduos.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/c89668f0016fb588ba621499742e27f62be5ccee.jpg",
+      "role": "Professora da UFPI"
+    },
+    {
+      "id": "7433",
+      "name": "Valentina Portela Ferreira",
+      "bio": "Valentina Portela Ferreira é estudante do 7º ano do Instituto Dom Barreto, com atuação em iniciação científica e inovação tecnológica nas áreas de Ciências, Astronomia e Astronáutica. É medalhista em olimpíadas como OBMEP, Canguru de Matemática, OBAFOG e Jornada de Foguetes. Pela equipe IDBSAT, venceu a etapa Norte-Nordeste da Olimpíada Brasileira de Satélites e conquistou o 1º lugar na categoria Júnior da 4ª ComPETção, com um CanSat para monitoramento de incêndios. Também desenvolveu o premiado projeto Teresina Sustentável, voltado à adaptação climática e ao combate ao calor extremo.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/4924eb4b42f85511ab9ee9f084b7e1cafb4e8499.png",
+      "role": "Medalhista da Olimpíada OBMEP"
+    },
+    {
+      "id": "7480",
+      "name": "Vanessa Veloso",
+      "bio": "É professora do Instituto Federal do Piauí (IFPI), Campus Floriano, e coordenadora do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) e do Co.Lab – Laboratório de Cocriação de Soluções Tecnológicas. É mestre em Ciência da Computação e possui experiência nas áreas de Engenharia de Software, Interação Humano-Computador (IHC), UX/UI Desing. Desenvolve e orienta projetos de pesquisa aplicada e inovação, com ênfase em Design Centrado no Usuário, avaliação da experiência do usuário, gamificação e desenvolvimento de sistemas.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/5beb164763a0a6953468879a736feec2fdb8aced.jpeg",
+      "role": "Professora do IFPI, Coordenadora do Co.Lab e Tech Lead da Plataforma Overflows"
+    },
+    {
+      "id": "7483",
+      "name": "Victor Sarrís",
+      "bio": "É graduando em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pelo Instituto Federal do Piauí (IFPI) - Campus Floriano. Atua como desenvolvedor Full Stack, tendo atuado como Developer Junior no EmbarcaTech no desenvolvimento de soluções que integram hardware e software, com foco atual em processamento local de dados, Edge Computing e automação, com interesse em inteligência artificial, engenharia de software e arquitetura de aplicações web.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/89e57961c6f6d754faebe54f0e0a2fe9c9ed1d22.png",
+      "role": "Desenvolvedor Full Stack na Overflows"
+    },
+    {
+      "id": "7389",
+      "name": "Vladimir Oliveira",
+      "bio": "Professor Assistente III e Coordenador Geral do Coworking Universitário da UEMA (Campus Timon), é mentor da I Jornada Empreendedora da Agência Marandu/UEMA. Foi técnico de TI do NPD/UESPI (2006–2017), é bacharel em Sistemas de Informação pela FAETE (2007), mestre em Ciência da Computação pela UFMA (2012) e possui MBAs em Gestão da Inovação e em Inovação Tecnológica e Propriedade Intelectual (FACEMINAS, 2023). Atua como professor e conteudista em cursos presenciais e EaD, com pesquisas em Metodologias Ativas, Segurança de Redes (Honeypots), Domótica e EaD.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/2575eeaac3c131cad55e4c81fa0a02ef47f1040c.jpg",
+      "role": "Diretor UEMA"
+    },
+    {
+      "id": "7482",
+      "name": "Yasmim Santana",
+      "bio": "É graduanda em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pelo Instituto Federal do Piauí (IFPI) - Campus Floriano. Atua como desenvolvedora front-end e pesquisadora de Experiência do Usuário (UX) em projetos de desenvolvimento de software e avaliação de usabilidade pós-implantação, com interesses nas áreas de Engenharia de Software e Interação Humano-Computador (IHC).",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/c78eeaa046fc6c2b72a4d883c386d7a3d0337ae1.jpeg",
+      "role": "Desenvolvedora Front-end na Plataforma Overflows."
+    },
+    {
+      "id": "7351",
+      "name": "Yasmin Yassine",
+      "bio": "Nascida em São Paulo, filha de pai libanês e mãe brasileira, Yasmin Yassine começou sua trajetória artística em 2014 como cantora e DJ. Formada em Comércio Exterior, ganhou destaque nas redes em 2017 com vídeos de humor e imitações e hoje soma mais de 5 milhões de seguidores, com conteúdos sobre cultura, música, humor e cotidiano. Em 2021, a convite do Flow Podcast, criou e apresentou com Criss Paiva o Venus Podcast, primeiro videocast feminino do Brasil, que teve mais de 1.900 episódios ao vivo em cinco anos.",
+      "photo": "https://4eventsfiles.nyc3.digitaloceanspaces.com/palestrantes/18443/108/c0226e892fd11e3de69dc5320a5d912997b69fe3.JPG",
+      "role": "Comunicadora e Criadora de Conteúdo"
+    }
+  ]
+}

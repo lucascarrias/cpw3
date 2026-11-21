@@ -113,7 +113,7 @@ function normalize(result) {
         if (!speakers.has(id)) {
           speakers.set(id, {
             id,
-            name: speaker.name || 'Palestrante',
+            name: String(speaker.name || 'Palestrante').trim(),
             bio: htmlToText(speaker.description),
             photo: speaker.foto || '',
             role: speaker.profession || speaker.tipo_name || '',
